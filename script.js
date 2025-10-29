@@ -4,7 +4,7 @@ let questionsData = [];
 // Load questions từ file JSON
 async function loadQuestions() {
     try {
-        const response = await fetch('questions.json');
+        const response = await fetch('/questions.json');
         questionsData = await response.json();
         console.log(`Đã tải ${questionsData.length} câu hỏi`);
         return true;
