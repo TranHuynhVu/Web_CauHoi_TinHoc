@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trắc Nghiệm Tin Học - 300 Câu Hỏi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>🎓 Trắc Nghiệm Tin Học Cơ Bản</h1>
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="stat-label">Đã làm:</span>
+                    <span class="stat-value" id="answered">0</span>/<span id="total">288</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Đúng:</span>
+                    <span class="stat-value correct" id="correct">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Sai:</span>
+                    <span class="stat-value incorrect" id="incorrect">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Tỷ lệ:</span>
+                    <span class="stat-value" id="accuracy">0%</span>
+                </div>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <!-- Question Display -->
+            <div class="question-section">
+                <div class="question-header">
+                    <h2>Câu <span id="currentQuestionNumber">1</span></h2>
+                    <button class="btn-reset" id="resetBtn">🔄 Làm lại</button>
+                </div>
+                
+                <div class="question-content">
+                    <p class="question-text" id="questionText">Đang tải câu hỏi...</p>
+                    
+                    <div class="answers" id="answersContainer">
+                        <!-- Answers will be generated here -->
+                    </div>
+                </div>
+
+                <div class="question-navigation">
+                    <button class="btn btn-prev" id="prevBtn">← Câu trước</button>
+                    <button class="btn btn-random" id="randomBtn">🎲 Câu ngẫu nhiên</button>
+                    <button class="btn btn-next" id="nextBtn">Câu sau →</button>
+                </div>
+
+                <div class="result-message" id="resultMessage"></div>
+            </div>
+
+            <!-- Question List Sidebar -->
+            <div class="sidebar">
+                <div class="sidebar-header">
+                    <h3>Danh sách câu hỏi</h3>
+                    <input type="text" id="searchInput" placeholder="🔍 Tìm câu..." class="search-box">
+                </div>
+                
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-filter="all">Tất cả</button>
+                    <button class="filter-btn" data-filter="correct">Đúng</button>
+                    <button class="filter-btn" data-filter="incorrect">Sai</button>
+                    <button class="filter-btn" data-filter="unanswered">Chưa làm</button>
+                </div>
+
+                <div class="question-list" id="questionList">
+                    <!-- Question numbers will be generated here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

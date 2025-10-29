@@ -1,0 +1,3170 @@
+[
+  {
+    "id": 1,
+    "question": "Ki ến thức chung: Đ ể tắt máy tính đúng cách ta ch ọn",
+    "answers": [
+      "Tắt ngu ồn điện",
+      "Bấm nút Power trên h ộp máy",
+      "Bấm nút Reset trên h ộp máy",
+      "Nh ấn nút Start ở góc dư ới bên trái màn hình n ền và ch ọn mục Shu tdown."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 2,
+    "question": "Ki ến thức chung: Đ ể phòng ch ống Virus cách t ốt nhất là?",
+    "answers": [
+      "Thư ờng xuyên ki ểm tra đ ĩa, đặc biệt thận trọng khi sao chép d ữ liệu",
+      "Sử dụng các chương trình c ập nhật thường xuyên",
+      "Thường xuyên lưu d ữ liệu",
+      "Sử dụng ứng dụng bảo vệ ổ đĩa"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "Ki ến thức chung: Khi đ ặt tên t ệp hoặc thư m ục trong DOS không đư ợc sử dụng các ký tự nào sau đây?",
+    "answers": [
+      ". , ? \\ / ; : = < > [ ]",
+      "Các ch ữ số từ 1 đến 5",
+      "Các ch ữ cái từ A đến G",
+      "Các ch ữ và số đi cùng nhau"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "Ki ến thức chung: Ch ọn câu tr ả lời thích h ợp nhất: “T ại sao ph ải định kì s ử dụng công cụ chống phân m ảnh đĩa cứng:",
+    "answers": [
+      "Đ ể ổ đĩa cứng máy tính lâu h ỏng",
+      "Đ ể tốc độ truy xu ất dữ liệu từ đĩa cứng nhanh hơn",
+      "Đ ể tạo ra nhi ều không gian tr ống hơn trong đ ĩa cứng",
+      "Đ ể nén d ữ liệu trong đ ĩa cứng tốt hơn"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "Ki ến thức chung: Virus tin h ọc thực chất là?",
+    "answers": [
+      "M ột loại vi sinh v ật sống ký sinh trên các thi ết bị vật lý c ủa máy tính",
+      "M ột kháng th ể không t ồn tại",
+      "M ột đoạn chương trình có kích thư ớc lớn",
+      "Tồn tại bên ngoài không khí"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "Ki ến thức chung: B ạn đã cài đ ặt một đĩa hoàn toàn m ới và b ạn mu ốn định dạng nó. Mục đích c ủa công vi ệc định dạng là gì?",
+    "answers": [
+      "Ph ục hồi dữ liệu bị mất trong đ ĩa",
+      "Tạo một đĩa chỉ đọc",
+      "Tạo một đĩa để đọc và ch ấp nhận dữ liệu",
+      "Làm cho nhi ều ngư ời sử dụng có th ể truy nh ập được đĩa"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "Ki ến thức chung: Các phát bi ểu sau, phát bi ểu nào đúng:",
+    "answers": [
+      "Tên File không đư ợc chứa kho ảng trắng",
+      "Tên File không nên có d ấu tiếng Vi ệt",
+      "Tên File đư ợc dài trên 255 kí t ự",
+      "Tên File đư ợc chấp nhận kí t ự #"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Ki ến thức chung: B ạn nhận đư ợc một bức thư đi ện tử chứa tệp tin đính kèm mà b ạn không nh ận biết ra, b ạn sẽ xử lý thế nào trong tình huống này đ ể đảm bảo an toàn?",
+    "answers": [
+      "M ở tệp tin này ra đ ể kiểm tra lo ại tệp tin",
+      "Chuy ển thư này cho ai đó mà b ạn ngh ĩ rằng bạn có th ể nhận biết được",
+      "Quét t ập tin này b ằng chương trình ch ống virus",
+      "Lưu b ản sao t ập tin này vào đ ĩa cứng và m ở bản sao này"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "Ki ến thức chung: Câu nào dư ới đây không đúng?",
+    "answers": [
+      "Vi rút máy tính lây nhi ễm qua khi dùng chung máy tính",
+      "Vi rút máy tính lây nhi ễm khi sao chép qua đ ĩa mềm, đĩa CD",
+      "Vi rút máy tính lây nhi ễm khi sao chép qua m ạng",
+      "Vi rút máy tính lây nhi ễm qua Internet"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "Ki ến thức chung: Ở tình hu ống nào dư ới đây, máy tính th ực thi công vi ệc tốt hơn con người?",
+    "answers": [
+      "Khi d ịch m ột cuốn sách",
+      "Khi ch ẩn đoán b ệnh",
+      "Khi phân tích tâm lý m ột con ngư ời",
+      "Khi th ực hiện một phép toán ph ức tạp"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "question": "Ki ến thức chung: Virus máy tính lây lan qua nh ững con đư ờng nào ?",
+    "answers": [
+      "Qua thi ết bị nhớ US",
+      "",
+      "Từ các file",
+      "Từ các ứng dụng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "Ki ến thức chung: Phát bi ểu nào v ề hệ điều hành sau đây là không đúng ?",
+    "answers": [
+      "H ệ điều hành đ ảm bảo giao ti ếp giữa ngư ời dùng và máy tính.",
+      "Ch ức năng chính c ủa hệ điều hành là th ực hiện tìm ki ếm thông tin trên Internet.",
+      "H ệ điều hành cung c ấp các phương ti ện và d ịch vụ để người sử dụng dễ dàng th ực hiện chương trình, qu ản lí ch ặt chẽ, khai thác các tài nguyên c ủa máy tính m ột cách t ối ưu.",
+      "H ệ điều hành Windows là m ột hệ điều hành dùng cho máy tính cá nhân c ủa hãng Microsoft."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Ki ến thức chung: Trong h ệ điều hành Windows, đ ể mở chương trình qu ản lý tác v ụ (Task Manager) b ạn dùng t ổ hợp phím:",
+    "answers": [
+      "Ctrl + S",
+      "Alt + F4",
+      "Ctrl + Alt + F4",
+      "Ctrl + Alt + Delete"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 14,
+    "question": "Ki ến thức chung: Trong máy tính, thông tin t ồn tại dưới các d ạng tập tin nào ?",
+    "answers": [
+      "Tập tin chương trình",
+      "Tập tin d ữ liệu",
+      "Cả hai đ ều đúng",
+      "C ả hai đ ều sai"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "Ki ến thức chung: Khi kh ởi động máy tính, ph ần mềm nào đư ợc thực hiện trư ớc ?",
+    "answers": [
+      "H ệ điều hành",
+      "Ph ần mềm gõ ti ếng Vi ệt",
+      "Ph ần mềm diệt Virus máy tính",
+      "Ph ần mềm Word, Excel"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "Ki ến thức chung: Theo b ạn phần mềm Windows, Linux có đ ặc điểm nào chung ?",
+    "answers": [
+      "C ả hai đ ều là ph ần mềm ứng dụng",
+      "Cả hai đ ều là thi ết bị phần cứng",
+      "Cả hai đ ều là h ệ điều hành",
+      "C ả hai đ ều là ph ần mềm hệ thống"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "Ki ến thức chung: Khi đang dùng máy tính, đ ể khởi động lại hệ thống thì b ạn dùng cách nào sau đây:",
+    "answers": [
+      "Tại giao di ện desktop => Alt + F4 => Restart",
+      "Kích Start menu => Shutdown",
+      "Bấm nút Restart trên h ộp máy",
+      "Bấm Alt + F4."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "Ki ến thức chung: Khi đang dùng máy tính, đ ể tắt hệ thống đúng cách thì b ạn dùng cách nào sau đây:",
+    "answers": [
+      "Rút dây ngu ồn điện máy tính",
+      "Kích Start menu => Shutdown",
+      "Bấm nút Power trên h ộp máy",
+      "B ấm nút Reset trên h ộp máy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "Ki ến thức chung: Trong h ệ điều hành Windows, mu ốn khởi chạy một chương trình nào đó thì:",
+    "answers": [
+      "M ở My Computer và kích đôi chu ột trái vào tê n chương trình",
+      "M ở và kích vào chương trình => b ấm Enter",
+      "M ở và kích chu ột phải vào chương trình => Open",
+      "M ở và kích đôi chu ột trái vào tên chương trình"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "Ki ến thức chung: Trong h ệ điều hành Windows, khi đang m ở cửa sổ thư m ục hiện hành b ạn mu ốn trở về màn hình n ền desktop thì:",
+    "answers": [
+      "B ấm tổ hợp phím Windows + D",
+      "Kích chu ột phải lên thanh Taskbar => Show the desktop",
+      "Cả hai cách trên đ ều đúng",
+      "C ả hai cách trên đ ều sai."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "Ki ến thức chung: Trong h ệ điều hành Windows, các t ập tin đư ợc chọn và xoá b ằng tổ hợp phím Shift + Delete thì:",
+    "answers": [
+      "Có th ể khôi ph ục bằng cách m ở trong My Computer",
+      "Có th ể khôi ph ục bằng cách m ở trong My Documents",
+      "Có th ể khôi ph ục bằng cách m ở trong Recycle Bin",
+      "Không th ể khôi ph ục lại được."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 22,
+    "question": "Ki ến thức chung: Trong h ệ điều hành Windows, bi ểu tượng của thư m ục thư ờng có màu?",
+    "answers": [
+      "Xanh",
+      "Đ ỏ",
+      "Tím",
+      "Vàng"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 23,
+    "question": "Ki ến thức chung: Trong h ệ điều hành Windows, thư m ục thư ờng đư ợc tổ chức dưới dạng:",
+    "answers": [
+      "Chu ỗi",
+      "Dây",
+      "Cây",
+      "Đ ồ thị"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "Ki ến thức chung: Trong h ệ điều hành Windows, đ ể mở chương trình qu ản lý tác v ụ (Task Manager) thì b ạn dùng t ổ hợp phím nào:",
+    "answers": [
+      "Ctrl + F1",
+      "Alt + F4",
+      "Ctrl + Alt + Delete",
+      "Ctrl + Shift + Delete"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 25,
+    "question": "Ki ến thức chung: Trong My Computer c ủa hệ điều hành Windows, đ ể xoá m ột đối tượng tập tin hay thư m ục thì b ạn:",
+    "answers": [
+      "Kích vào đ ối tượng đó và nh ấn phím Delete",
+      "Kích chu ột phải và ch ọn Delete",
+      "Kích và nh ấn tổ hợp phím Ctrl + D",
+      "Kích chọn Delete"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "Ki ến thức chung: Đ ịnh dạng tập tin có đuôi *.exe là:",
+    "answers": [
+      "Tập tin chương trình",
+      "Tập tin d ữ liệu",
+      "Cả hai đ ều đúng",
+      "C ả hai đ ều sai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "Ki ến thức chung: Trong My Computer c ủa hệ điều hành Windows, b ạn phải nhấn giữ phím nào đ ể chọn lần lượt từng đối tượng thư m ục hoặc tập tin riêng l ẻ ?",
+    "answers": [
+      "Ctrl",
+      "Shift",
+      "Alt",
+      "Insert"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "Ki ến thức chung: Trong h ệ điều hành Windows, chu ỗi ký t ự nào sau đây không phù hợp để đặt tên cho t ập tin c ủa bạn ?",
+    "answers": [
+      "Thuchanhword.doc",
+      "Baib ạnpnhom.docx",
+      "http://tttinhoc.duytan.edu.vn",
+      "Hinhanh.bmp"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 29,
+    "question": "Ki ến thức chung: Theo b ạn, virus máy tính gây ra tác h ại nào đ ối với ngư ời dùng ?",
+    "answers": [
+      "Tiêu t ốn tài nguyên h ệ thống.",
+      "Phá h ủy thiết bị",
+      "Đánh c ắp thiết bị",
+      "Phá h ủy bộ nhớ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "Ki ến thức chung: Chương trình nào sau đây không ph ải là chương trình di ệt virus ?",
+    "answers": [
+      "Kaspersky",
+      "Winrar",
+      "Avast Free Antivirus",
+      "BKA V"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "Ki ến thức chung: Hãy cho bi ết thiết bị nào sau đây là thi ết bị nhập?",
+    "answers": [
+      "Bàn phím, chu ột, máy scan",
+      "Màn hình, bàn phím, chu ột",
+      "Má y in",
+      "Máy scan"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "Ki ến thức chung: Máy tính là gì?",
+    "answers": [
+      "Là công c ụ phát hi ện nói d ối",
+      "Là công c ụ cho phép x ử lý thông tin m ột cách th ủ công",
+      "Là công c ụ không dùng đ ể tính toán",
+      "Là công c ụ cho phép x ử lý thông tin m ột cách t ự động"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 33,
+    "question": "Ki ến thức chung: Đ ĩa CDRW có ch ức năng gì sau đây?",
+    "answers": [
+      "Đ ọc/ghi",
+      "Đ ọc",
+      "Ghi",
+      "Lưu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "Ki ến thức chung: RAM là vi ết tắt của",
+    "answers": [
+      "Reliable Access Memory",
+      "Recordable Access Memory",
+      "Random Access Memory",
+      "Readable Access Memony"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 35,
+    "question": "Ki ến thức chung: C ổng giao ti ếp nào sau đây không s ử dụng cho máy in?",
+    "answers": [
+      "USB",
+      "Parallel",
+      "Network",
+      "PS/2"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 36,
+    "question": "Ki ến thức chung: Ổ đĩa cứng là thi ết bị thuộc loại",
+    "answers": [
+      "B ộ nhớ trong",
+      "Bộ nhớ ngoài",
+      "Bộ nhớ cố định",
+      "B ộ nhớ truy c ập ngẫu nhiên"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "Ki ến thức chung: Cách nào sau đây không th ể mở Task Manager?",
+    "answers": [
+      "Nh ấn tổ hợp phím: Ctrl, Alt, Del",
+      "Nh ấn tổ hợp phím: Ctrl, Shift, Esc",
+      "Click chu ột phải vào thanh Taskbar ch ọn TaskManager",
+      "Ch ạy lệnh \"taskmanager\" trong h ộp tho ại Run"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 38,
+    "question": "Ki ến thức chung: T ổ hợp phím nào sau đây có tác d ụng đóng chương trình hi ện hành",
+    "answers": [
+      "Alt+F4",
+      "Alt+F5",
+      "Alt+F6",
+      "Alt+F7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "Ki ến thức chung: T ổ hợp phím nào sau đây có tác d ụng kh ởi động chươ ng trình Explorer",
+    "answers": [
+      "Win+E",
+      "Win+R",
+      "Win+T",
+      "Win+Y"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "Ki ến thức chung: Đ ể xem thu ộc tính c ủa file hay thư m ục ta th ực hiện thao tác nào",
+    "answers": [
+      "Ch ọn file ho ặc thư m ục cần xem sau đó nh ấn tổ hợp phím Alt+Enter",
+      "Click chu ột phải chọn Properties",
+      "Nhấn tổ hợp phím Alt+Enter",
+      "Nhấn tổ hợp phím Ctrl+Enter"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "Ki ến thức chung: Mu ốn xem các chương trình đã cài đ ặt trong máy tính ta dùng chương trình nào sau đây trong Control Panel",
+    "answers": [
+      "Programs and Features",
+      "Mouse",
+      "Personalization",
+      "Keyboard"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "Ki ến thức chung: Khi thao tác b ảo trì máy tính ngư ời kỹ thuật viên c ần phải mặc gì?",
+    "answers": [
+      "Đ ồng ph ục bảo hộ lao đ ộng",
+      "Đ ồng ph ục thể thao",
+      "Đ ồng ph ục học thể dục",
+      "Không c ần đồng ph ục"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "Ki ến thức chung: Ngư ời kỹ thuật viên c ần tuân thủ nguyên t ắc gì khi thao tác s ửa chữa trực tiếp với máy tính",
+    "answers": [
+      "Không đi chân tr ần khi ti ếp xúc",
+      "Không m ặc áo quá nóng",
+      "Không m ặc quần dài",
+      "Không đ ội nón b ảo hiểm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "Ki ến thức chung: Trư ớc khi thao tác tr ực tiếp với thiết bị người kỹ thuật viên c ần làm gì đầu tiên?",
+    "answers": [
+      "Dùng bút th ử điện để kiểm tra trư ớc khi thao tác",
+      "M ở thiết bị ra sửa ngay",
+      "G ọi điện cho khách hàng",
+      "Vào internet xem quy trình s ửa chữa"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "Ki ến thức chung: Nguyên t ắc nào sau đây có th ể cải thiện tình tr ạng an toàn cho người kỹ thuật viên",
+    "answers": [
+      "5S",
+      "4S",
+      "3S",
+      "2S"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "Ki ến thức chung: Khi thao tác s ửa chữa thiết bị với độ cao trên 2m ng ười kỹ thuật viên tuy ệt đối phải làm gì?",
+    "answers": [
+      "Đeo dây an toàn",
+      "Quan sát k ỹ trước khi leo lên cao",
+      "Mang máy xu ống th ấp để thao tác",
+      "Không c ần làm gì"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "Ki ến thức chung: C ần phải làm gì trư ớc khi thao tác b ảo trì d ữ liệu",
+    "answers": [
+      "Sao lưu d ữ liệu",
+      "Xóa d ữ liệu",
+      "Cắt dữ liệu",
+      "Không c ần phải làm gì"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 1,
+    "question": "Windows 10: Muốn di chuy ển một cửa sổ thì thao tác nào dư ới đây là đúng:",
+    "answers": [
+      "Nh ắp chu ột phải, chọn lệnh Move",
+      "Nh ấn tổ hợp phím Ctrl + M",
+      "Ch ọn Menu Windows; Move",
+      "Tr ỏ chuột vào thanh tiêu đ ề (Title bar) và kéo đ ến vị trí m ới"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Windows 10: Thiết lập hiển thị các folder có thu ộc tính ẩn ở đâu?",
+    "answers": [
+      "Control Panel / Folder Option / General tab",
+      "Folder Properties / General tab",
+      "Control Panel / Folder Option / View tab",
+      "Folder Properties / Security tab"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "Windows 10: Biểu tượng của các l ối tắt (Shortcut) giúp b ạn truy c ập nhanh đ ến đối tượng nào dư ới đây :",
+    "answers": [
+      "Chương trình",
+      "Ổ đĩa",
+      "Tập tin tư li ệu",
+      "Nh ấn tổ hợp phím Ctrl +S"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 4,
+    "question": "Windows 10: Thiết bị vừa là thi ết bị xuất vừa là thi ết bị nhập của máy tính",
+    "answers": [
+      "Máy in",
+      "Bà n phím",
+      "Màn hình",
+      "Đ ĩa cd-rw/dvd -rw"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 5,
+    "question": "Windows 10: Muốn khôi ph ục lại đối tượng đã xóa trong Recycle Bin, ta ch ọn đối tượng rồi thực hiện:",
+    "answers": [
+      "File - Copy",
+      "File - Open",
+      "File - Restore",
+      "File - Move To Folder…"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "Windows 10: Để thiết đặt lại hệ thống, ta ch ọn chức năng",
+    "answers": [
+      "Control Panel",
+      "Control Windows",
+      "Control System",
+      "Control Desktop"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "Windows 10: Chương trình dùng đ ể quản lí các t ệp và thư m ục là",
+    "answers": [
+      "Accessories",
+      "Windows Explorer",
+      "Internet Explorer",
+      "Control Panel"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Windows 10: Chương trình nào như m ột máy tính b ỏ túi tích h ợp trong Windows",
+    "answers": [
+      "Notepad",
+      "Calculator",
+      "MS Word",
+      "MS Excel"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Windows 10: Muốn cài đ ặt máy in, ta th ực hiện",
+    "answers": [
+      "File - Printer and Faxes, r ồi chọn mục Add a printer",
+      "Window - Printer and Faxes, r ồi chọn mục Add a printer",
+      "Start - Printer and Faxes, r ồi chọn mục Add a printer",
+      "Tools - Printer and Faxes, r ồi chọn mục Add a printer"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Windows 10: Trong c ửa sổ Explore, đ ể chọn một lúc các file ho ặc folder n ằm không kề nhau trong m ột danh sách",
+    "answers": [
+      "Gi ữ phím Ctrl và nháy chu ột vào t ừng m ục mu ốn chọn trong danh sách",
+      "Nháy chu ột ở mục đầu, ấn và gi ữ Shift nháy chu ột ở mục cuối",
+      "Gi ữ phím Alt và nháy chu ột vào t ừng m ục mu ốn chọn trong danh sách",
+      "Gi ữ phím Tab và nháy chu ột vào t ừng m ục mu ốn chọn trong danh sách"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "Windows 10: Để thoát kh ỏi một chương trình trong ứng dụng của Windows, ta dùng tổ hợp phím",
+    "answers": [
+      "Alt – F4",
+      "Ctrl – F5",
+      "Shift – F4",
+      "Alt – F5"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "Windows 10: Kiến thức chung: B ộ nhớ RAM và ROM là b ộ nhớ gì?",
+    "answers": [
+      "Secondary memory",
+      "Receive memory",
+      "Primary memory",
+      "Random access memory"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "question": "Windows 10: Windows Explorer có các thành ph ần: Explorer bar, Explorer view, Tool bar, menu bar. Còn l ại là gì?",
+    "answers": [
+      "Status bar",
+      "Menu bar",
+      "Task bar",
+      "Control panel"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "Windows 10: Chương trình cho phép đ ịnh lại cấu hình h ệ thống thay đ ổi môi trư ờng làm vi ệc cho phù h ợp",
+    "answers": [
+      "Display",
+      "Control panel",
+      "Sreen Saver",
+      "Task bar"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "Windows 10: Trong Windows, khi xoá file ho ặc folder thì nó đư ợc lưu trong Recycle Bin, mu ốn xoá h ẳn file ho ặc folder ta b ấm tổ hợp phím nào:",
+    "answers": [
+      "Shift_Del",
+      "Alt_Del",
+      "Ctrl_Del",
+      "Task bar"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "Windows 10: Trong h ệ điều hành Windows, thu ộc tính nào dư ới đây dùng đ ề hiển thị thanh công vi ệc (Taskbar) trên các c ửa sổ chương trình?",
+    "answers": [
+      "Lock the Taskbar",
+      "Auto -Hide the Taskbar",
+      "Keep the Taskbar on top of other Windows",
+      "Show the clock"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Windows 10: Trong h ệ điều hành Windows, đ ể phục hồi tất cả các đ ối tượng trong Recycle Bin (thùng rác) ta nháy ph ải chu ột tại Recycle Bin và ch ọn lệnh:",
+    "answers": [
+      "Delete",
+      "Restore",
+      "Redo",
+      "Undo Delete"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "Windows 10: Nhấn giữ phím nào khi mu ốn chọn nhi ều đối tượng liên ti ếp nhau?",
+    "answers": [
+      "Ctrl",
+      "Alt",
+      "Tab",
+      "Shift"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 19,
+    "question": "Windows 10: Trong h ệ điều hành Windows, đ ể dán các t ệp/thư m ục sau khi đã th ực hiện lệnh copy, ta m ở ổ đĩa, thư m ục mu ốn chứa bản sao và:",
+    "answers": [
+      "Vào b ảng ch ọn Edit à ch ọn Paste.",
+      "Nh ấn tổ hợp phí m Ctrl + V .",
+      "Nháy ph ải chu ột tại vùng tr ống bên trong ổ đĩa, thư m ục cha à ch ọn Paste.",
+      "Các ý trên đ ều đúng"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 20,
+    "question": "Windows 10: Các thành ph ần: bộ nhớ chính, b ộ xử lý trung ương, b ộ phận nhập xuất, các lo ại hệ điều hành là:",
+    "answers": [
+      "Control Panel",
+      "Ph ần mềm",
+      "Thi ết bị lưu tr ữ",
+      "Ứng dụng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "Windows 10: Trên h ệ điều hành Windows, đ ể chuy ển đổi cửa sổ chương trình c ần làm vi ệc ta:",
+    "answers": [
+      "Nháy ch ọn biểu tượng chương trình tương ứng trên thanh công vi ệc (Taskbar).",
+      "Nh ấn giữ phím Alt +",
+      "",
+      "Nháy vào m ột vị trí mu ốn kích ho ạt."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "Windows 10: Trong các ph ần mềm sau, ph ần mềm nào là ph ần mềm ứng dụng?",
+    "answers": [
+      "Windows XP",
+      "Microsoft Word",
+      "Linux",
+      "Unix"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "Windows 10: muốn khôi ph ục đối tượng đã xóa, ta m ở cửa sổ Recycle Bin, ch ọn đối tượng mu ốn khôi ph ục và",
+    "answers": [
+      "Nh ấp chọn Edit và Restore.",
+      "Nh ấp chọn Edit và Delete.",
+      "Nh ấp chọn File và Restore.",
+      "Nh ấp chọn File và Delete."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "Windows 10: Muốn đổi tên cho thư m ục/tệp tin trong h ệ điều hành Windows, ta ch ọn thư m ục/tệp tin c ần đổi tên và th ực hiện thao tác nào sau đây?",
+    "answers": [
+      "Nh ấp chọn File và chọn Rename và nhập tên m ới và nhấn phím Enter.",
+      "Nh ấn phím F2 và nhập tên m ới và nhấn phím Enter.",
+      "Nh ấp chọn chuột phải tại thư m ục/tệp tin và nhập tên m ới và nhấn phím Enter.",
+      "Các ý trên đ ều đúng."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 25,
+    "question": "Windows 10: Để xoá các t ệp/thư m ục đang ch ọn ta th ực hiện cách nào?",
+    "answers": [
+      "Vào b ảng ch ọn Edit và UnDelete và Yes.",
+      "Nh ấn tổ hợp phím Ctrl + Delete và Yes.",
+      "Nh ấn phím Delete và Yes.",
+      "Các ý trên đ ều đúng."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 26,
+    "question": "Windows 10: Để dán các t ệp/thư m ục sau khi đã th ực hiện lệnh copy, ta m ở ổ đĩa, thư mục mu ốn chứa bản sao và:",
+    "answers": [
+      "Chọn Edit và ch ọn Paste.",
+      "Nh ấn tổ hợp phím Ctrl + V .",
+      "Nháy ph ải chu ột tại vùng tr ống bên trong ổ đĩa và ch ọn Paste.",
+      "Nháy ph ải chu ột tại thư m ục cha và ch ọn Paste."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "Windows 10: Trong h ệ điều hành Windows, mu ốn đóng (thoát) c ửa sổ chương trình ứng dụng đang làm vi ệc ta:",
+    "answers": [
+      "Nh ấn tổ hợp phím Ctrl + F3",
+      "Nh ấn phím F11",
+      "Nh ấn tổ hợp phím Alt + F4.",
+      "Nh ấn tổ hợp phím Alt + Q"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "Windows 10: Để quản lý t ệp, thư m ục ta thư ờng dùng chương trình nào sau đây:",
+    "answers": [
+      "Internet Explorer",
+      "Windows Explorer.",
+      "Microsoft Word.",
+      "Microsoft Excel."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "Windows 10: Muốn thay đ ổi các thông s ố khu v ực trong h ệ điều hành Windows như múi gi ờ, đơn v ị tiền tệ, cách vi ết số, ... ta s ử dụng chương trình nào trong các chương trình sau",
+    "answers": [
+      "Microsoft Paint",
+      "System Tools",
+      "Control Panel",
+      "Caculator"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 30,
+    "question": "Windows 10: Muốn chọn tất cả các đ ối tượng trong c ửa sổ thư m ục hiện tại, ta dùng phím (t ổ hợp phím) nào sau đây",
+    "answers": [
+      "Shift + F4",
+      "Ctrl +A",
+      "Alt + H",
+      "F11"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 1,
+    "question": "MS Winword 2013: Tổ hợp phím Ctrl + O dùng đ ể",
+    "answers": [
+      "M ở một Document m ới",
+      "M ở một Document đã có",
+      "Đóng Document đang m ở",
+      "Đó ng và lưu Document đang m ở"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "MS Winword 2013: Tổ hợp phím nào cho phép ch ọn tất cả văn b ản đang so ạn thảo",
+    "answers": [
+      "Ctrl + A",
+      "Ctrl + End",
+      "Alt + A",
+      "Alt + End"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "MS Winword 2013: Trong B ảng (Table), đ ể tách m ột ô thành nhi ều ô, ta th ực hiện:",
+    "answers": [
+      "LayOut - Cells",
+      "Design - Cells",
+      "LayOut - Split Cells",
+      "Design - Split Cells"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "MS Winword 2013: Muốn định dạng các đo ạn văn b ản theo ki ểu danh sách, ta th ực hiện:",
+    "answers": [
+      "Home - Bullets and Numbering",
+      "View - Bullets and Numbering",
+      "Insert - Bullets and Numbering",
+      "Review - Bullets and Numbering"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "MS Winword 2013: Để chèn tiêu đ ề trang (đ ầu trang và chân trang), ta th ực hiện",
+    "answers": [
+      "Insert - Header and Footer",
+      "View - Header and Footer",
+      "Home - Header and Footer",
+      "Review - Header and Footer"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "MS Winword 2013: Để soạn thảo một công th ức toán h ọc, ta thư ờng dùng",
+    "answers": [
+      "Insert - Word Art",
+      "Insert - Equation",
+      "Insert - Chart",
+      "Insert - Shapes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "MS Winword 2013: Một đối tượng sử dụng lo ại Wraps text nào đ ể văn b ản lấp đầy các khoảng trong xung quanh nó.",
+    "answers": [
+      "Spuare",
+      "Tight",
+      "Through",
+      "Top and Bottom"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "MS Winword 2013: Để định dạng lại trang gi ấy in, ta th ực hiện",
+    "answers": [
+      "File - Print",
+      "Page Layout - Page Setup",
+      "File - Page Setup",
+      "Page Layout - Print"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "MS Winword 2013: Để chuy ển đổi giữa hai ch ế độ gõ : ch ế độ gõ chèn và ch ế độ gõ đè; ta b ấm",
+    "answers": [
+      "Tab",
+      "Shift + Del",
+      "Insert",
+      "Shift + Insert"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "MS Winword 2013: Trong Word, đ ể tạo chỉ số trên (m2), b ạn thực hiện gõ m2, bôi đen ch ỉ số 2 rồi thực hiện tiếp tổ hợp phím nào sau đây?",
+    "answers": [
+      "Ctrl , Shift, =",
+      "Ctrl , =",
+      "Shift, =",
+      "Ctrl , Shift"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "MS Winword 2013: Trong Word, đ ể tạo chỉ số dưới (H2), b ạn thực hiện gõ H2, bôi đen ch ỉ số 2 rồi thực hiện tiếp tổ hợp phím nào sau đây?",
+    "answers": [
+      "Ctrl , Shift, =",
+      "Ctrl , =",
+      "Shift, =",
+      "Ctrl , Shift"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "MS Winword 2013: Trong Word, khi đã bôi đen m ột đoạn văn b ản in nh ạt, mu ốn đoạn văn b ản này đ ậm lên, b ạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Ctrl + P",
+      "Ctrl + X",
+      "Ctrl + C",
+      "Ctrl + B"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 13,
+    "question": "MS Winword 2013: Trong Word, b ạn có m ột Bảng (Table) g ồm 3 c ột, 5 dòng. Con tr ỏ đang ở ô cuối cùng trên dòng s ố 5, mu ốn thêm m ột dòng mới ở cuối bảng, b ạn thực hiện cách nào sau đây?",
+    "answers": [
+      "Tab",
+      "Kích chu ột phải -> Insert",
+      "Kích chu ột phải -> Insert Cells",
+      "Chọn Insert Rows Below"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "MS Winword 2013: Trong Word đ ể dãn kho ản cách gi ữa các dòng là 1,5 line, sau khi bôi đen các dòng văn b ản ta th ực hiện cách nào sau đây?",
+    "answers": [
+      "Ctrl + Shift + 5",
+      "Paragraph/Line Spacing -> chọn 1,5 lines",
+      "Ctrl + Shift + F 5",
+      "Ctrl + Shift + F6"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "MS Winword 2013: Trong Word đ ể ngắt trang trong Word ta dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Alt + Enter",
+      "Alt + Shift",
+      "Shift + Enter",
+      "Ctrl + Enter"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 16,
+    "question": "MS Winword 2013: Trong Word đ ể chọn toàn b ộ một ô b ất kỳ trong b ảng, ta th ực hiện theo cách nào sau đây?",
+    "answers": [
+      "Bôi đen ph ần văn b ản trên ô đó",
+      "Nh ấn đúp chu ột vào ô đó",
+      "Nh ấn chu ột vào phía trên ô đó",
+      "Nh ấn chu ột vào góc dư ới bên trái ô đó."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 17,
+    "question": "MS Winword 2013: Trong Word, ta có th ể tạo chữ in hoa b ằng công c ụ Drop Cap cho trường hợp nào sau đây?",
+    "answers": [
+      "Ch ữ cái đ ầu của mỗi đoạn trong văn b ản",
+      "M ột số chữ cái đ ầu của đoạn đầu tiên trong văn b ản",
+      "Ch ữ cái đ ầu dòng trên Table",
+      "Ch ữ cái đ ầu đoạn văn b ảng trong Text box"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "MS Winword 2013: Trong Word, File BangdiemSV dùng làm d ữ liệu để trộn thư in bảng đi ểm cá nhân cho sinh viên, File BangdiemSV không thể dùng đư ợc ở dạng nào sau đây?",
+    "answers": [
+      "BangdiemSV .xls",
+      "BangdiemSV .txt",
+      "BangdiemSV .doc",
+      "BangdiemSV .pdf"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 19,
+    "question": "MS Winword 2013: Trong Word, khi đã bôi đen m ột đoạn văn b ản, mu ốn tăng kích cỡ của chữ bạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Ctrl + ]",
+      "Ctrl + }",
+      "Ctrl + {",
+      "Ctrl + ["
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "MS Winword 2013: Trong Word, khi đã bôi đen m ột đoạn văn b ản, mu ốn giảm kích cỡ của chữ bạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Ctrl + ]",
+      "Ctrl + }",
+      "Ctrl + {",
+      "Ctrl + ["
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 21,
+    "question": "MS Winword 2013: Trong Word, m ột đoạn văn b ản có ch ỉ mục nếu bạn mu ốn xuống dòng mà không mu ốn dòng đó có ch ỉ mục thì b ạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Alt + Enter",
+      "Shift + Enter",
+      "Ctrl + Enter",
+      "Alt + F4"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "MS Winword 2013: Trong Word, khi đã bôi đen m ột đoạn văn b ản gõ ch ữ thường, muốn địnhk d ạng thành ch ữ IN HOA b ạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Shift + F1",
+      "Shift + F2",
+      "Shift + F3",
+      "Shift + F4"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "MS Winword 2013: Trong Word, khi đã bôi đen m ột đoạn văn b ản gõ ch ữ IN HOA, muốn địnhk d ạng thành ch ữ thường bạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Shift + F1",
+      "Shift + F2",
+      "Shift + F3",
+      "Shift + F4"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "MS Winword 2013: Trong Word, bôi đen m ột đoạn văn b ản rồi lần lượt thực hiện thao tác : Nh ấn tổ hợp phím Ctrl + B ti ếp đến là Ctrl + I, c ụm từ được bôi đen s ẽ :",
+    "answers": [
+      "In nghiêng",
+      "In đ ậm",
+      "Có g ạch chân",
+      "In đ ậm và nghiêng"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 25,
+    "question": "MS Winword 2013: Trong Word, đ ể định dạng ch ữ cái lớn đầu đoạn văn b ản ta th ực hiện:",
+    "answers": [
+      "Home/Drop Cap",
+      "Insert/Drop Cap",
+      "View/Drop Cap",
+      "Tool/Drop Cap"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "MS Winword 2013: Trong Word, đ ể định dạng canh biên trái, biên ph ải, định dạng trang in ngang, d ọc… ta th ực hiện theo cách nào sau đây?:",
+    "answers": [
+      "Page Layout/Page Setup",
+      "File/Print",
+      "View/Print Layout",
+      "File/Options"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "MS Winword 2013: Trong Word, đ ể sửa lại nội dung m ột văn b ản đã có và lưu nó v ới tên m ới đồng th ời tập tin c ũ vẫn giữ nguyên, ta th ực hiện cách nào sau đây?:",
+    "answers": [
+      "File/Save As",
+      "File/Save",
+      "File/Page Setup",
+      "File/Save & Send"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "MS Winword 2013: Trong Word, đ ể di chuy ển đoạn văn b ản đã đư ợc chọn, ta th ực hiện cặp thao tác nào sau đây?",
+    "answers": [
+      "Copy và Paste",
+      "Cut và Paste",
+      "Copy và Cut",
+      "Alt + M"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "MS Winword 2013: Trong Word, đ ể sao chep đo ạn văn b ản đã đư ợc chọn, ta th ực hiện cặp thao tác nào sau đây?",
+    "answers": [
+      "Copy và Paste",
+      "Cut và Paste",
+      "Copy và Cut",
+      "Edit\\Options"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "MS Winword 2013: Trong Word, công c ụ Format Painter có ch ức năng gì?",
+    "answers": [
+      "V ẽ hình",
+      "Tô màu",
+      "Sao chép đ ịnh dạng",
+      "Cắt văn b ản"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 1,
+    "question": "MS Winword 2013: Tổ hợp phím Ctrl + O dùng đ ể",
+    "answers": [
+      "M ở một Document m ới",
+      "M ở một Document đã có",
+      "Đóng Document đang m ở",
+      "Đóng và lưu Document đang m ở"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "MS Winword 2013: Tổ hợp phím nào cho phép ch ọn tất cả văn b ản đang so ạn thảo",
+    "answers": [
+      "Ctrl + A",
+      "Ctrl + End",
+      "Alt + A",
+      "Alt + End"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "MS Winword 2013: Trong B ảng (Table), đ ể tách m ột ô thành nhi ều ô, ta th ực hiện:",
+    "answers": [
+      "LayOut - Cells",
+      "Design - Cells",
+      "LayOut - Split Cells",
+      "Design - Split Cells"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "MS Winword 2013: Muốn định dạng các đo ạn văn b ản theo ki ểu danh sách, ta th ực hiện:",
+    "answers": [
+      "Home - Bullets and Numbering",
+      "View - Bullets and Numbering",
+      "Insert - Bullets and Numbering",
+      "Review - Bullets and Numbering"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "MS Winword 2013: Để chèn tiêu đ ề trang (đ ầu trang và chân trang), ta th ực hiện",
+    "answers": [
+      "Insert - Header and Footer",
+      "View - Header and Footer",
+      "Home - Header and Footer",
+      "Review - Header and Footer"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "MS Winword 2013: Để soạn thảo một công th ức toán h ọc, ta thư ờng dùng",
+    "answers": [
+      "Insert - Word Art",
+      "Insert - Equation",
+      "Insert - Chart",
+      "Insert - Shapes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "MS Winword 2013: Một đối tượng sử dụng lo ại Wraps text nào đ ể văn b ản lấp đầy các khoảng trong xung quanh nó.",
+    "answers": [
+      "Spuare",
+      "Tight",
+      "Through",
+      "Top and Bottom"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "MS Winword 2013: Để định dạng lại trang gi ấy in, ta th ực hiện",
+    "answers": [
+      "File - Print",
+      "Page Layout - Page Setup",
+      "File - Page Setup",
+      "Page Layout - Print"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "MS Winword 2013: Để chuy ển đổi giữa hai ch ế độ gõ : ch ế độ gõ chèn và ch ế độ gõ đè; ta b ấm",
+    "answers": [
+      "Tab",
+      "Shift + Del",
+      "Insert",
+      "Shift + Insert"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "MS Winword 2013: Trong Word, đ ể tạo chỉ số trên (m2), b ạn thực hiện gõ m2, bôi đen ch ỉ số 2 rồi thực hiện tiếp tổ hợp phím nào sau đây?",
+    "answers": [
+      "Ctrl , Shift, =",
+      "Ctrl , =",
+      "Shift, =",
+      "Ctrl , Shift"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "MS Winword 2013: Trong Word, đ ể tạo chỉ số dưới (H2), b ạn thực hiện gõ H2, bôi đen ch ỉ số 2 rồi thực hiện tiếp tổ hợp phím nào sau đây?",
+    "answers": [
+      "Ctrl , Shift, =",
+      "Ctrl , =",
+      "Shift, =",
+      "Ctrl , Shift"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "MS Winword 2013: Trong Word, khi đã bôi đen m ột đoạn văn b ản in nh ạt, mu ốn đoạn văn b ản này đ ậm lên, b ạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Ctrl + P",
+      "Ctrl + X",
+      "Ctrl + C",
+      "Ctrl + B"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 13,
+    "question": "MS Winword 2013: Trong Word, b ạn có m ột Bảng (Table) g ồm 3 c ột, 5 dòng. Con tr ỏ đang ở ô cuối cùng trên dòng s ố 5, mu ốn thêm m ột dòng mới ở cuối bảng, b ạn thực hiện cách nào sau đây?",
+    "answers": [
+      "Tab",
+      "Kích chu ột phải -> Insert",
+      "Kích chu ột phải -> Insert Cells",
+      "Chọn Insert Rows Below"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "MS Winword 2013: Trong Word đ ể dãn kho ản cách gi ữa các dòng là 1,5 line, sau khi bôi đen các dòng văn b ản ta th ực hiện cách nào sau đây?",
+    "answers": [
+      "Ctrl + Shift + 5",
+      "Paragraph/Line Spacing -> chọn 1,5 lines",
+      "Ctrl + Shift + F 5",
+      "Ctrl + Shift + F6"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "MS Winword 2013: Trong Word đ ể ngắt trang trong Word ta dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Alt + Enter",
+      "Alt + Shift",
+      "Shift + Enter",
+      "Ctrl + Enter"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 16,
+    "question": "MS Winword 2013: Trong Word đ ể chọn toàn b ộ một ô b ất kỳ trong b ảng, ta th ực hiện theo cách nào sau đây?",
+    "answers": [
+      "Bôi đen ph ần văn b ản trên ô đó",
+      "Nh ấn đúp chu ột vào ô đó",
+      "Nh ấn chu ột vào phía trên ô đó",
+      "Nh ấn chu ột vào góc dư ới bên trái ô đó."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 17,
+    "question": "MS Winword 2013: Trong Word, ta có th ể tạo chữ in hoa b ằng công c ụ Drop Cap cho trường hợp nào sau đây?",
+    "answers": [
+      "Ch ữ cái đ ầu của mỗi đoạn trong văn b ản",
+      "M ột số chữ cái đ ầu của đoạn đầu tiên trong văn b ản",
+      "Ch ữ cái đ ầu dòng trên Table",
+      "Ch ữ cái đ ầu đoạn văn b ảng trong Text box"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "MS Winword 2013: Trong Word, File BangdiemSV dùng làm d ữ liệu để trộn thư in bảng đi ểm cá nhân cho sinh viên, File BangdiemSV không thể dùng đư ợc ở dạng nào sau đây?",
+    "answers": [
+      "BangdiemSV .xls",
+      "BangdiemSV .txt",
+      "BangdiemSV .doc",
+      "BangdiemSV .pdf"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 19,
+    "question": "MS Winword 2013: Trong Word, khi đã bôi đen m ột đoạn văn b ản, mu ốn tăng kích cỡ của chữ bạn dùng tổ hợp phím nào sau đây?",
+    "answers": [
+      "Ctrl + ]",
+      "Ctrl + }",
+      "Ctrl + {",
+      "Ctrl + ["
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "MS Winword 2013: Trong Word, khi đã bôi đen m ột đoạn văn b ản, mu ốn giảm kích cỡ của chữ bạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Ctrl + ]",
+      "Ctrl + }",
+      "Ctrl + {",
+      "Ctrl + ["
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 21,
+    "question": "MS Winword 2013: Trong Word, m ột đoạn văn b ản có ch ỉ mục nếu bạn mu ốn xuống dòng mà không mu ốn dòng đó có ch ỉ mục thì b ạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Alt + Enter",
+      "Shift + Enter",
+      "Ctrl + Enter",
+      "Alt + F4"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "MS Winword 2013: Trong Word, khi đã bôi đen m ột đoạn văn b ản gõ ch ữ thường, muốn địnhk d ạng thành ch ữ IN HOA b ạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Shift + F1",
+      "Shift + F2",
+      "Shift + F3",
+      "Shift + F4"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "MS Winword 2013: Trong Word, khi đã bôi đen m ột đoạn văn b ản gõ ch ữ IN HOA, muốn địnhk d ạng thành ch ữ thường bạn dùng t ổ hợp phím nào sau đây?",
+    "answers": [
+      "Shift + F1",
+      "Shift + F2",
+      "Shift + F3",
+      "Shift + F4"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "question": "MS Winword 2013: Trong Word, bôi đen m ột đoạn văn b ản rồi lần lượt thực hiện thao tác : Nh ấn tổ hợp phím Ctrl + B ti ếp đến là Ctrl + I, c ụm từ được bôi đen s ẽ :",
+    "answers": [
+      "In nghiêng",
+      "In đ ậm",
+      "Có g ạch chân",
+      "In đ ậm và nghiêng"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 25,
+    "question": "MS Winword 2013: Trong Word, đ ể định dạng ch ữ cái lớn đầu đoạn văn b ản ta th ực hiện:",
+    "answers": [
+      "Home/Drop Cap",
+      "Insert/Drop Cap",
+      "View/Drop Cap",
+      "Tool/Drop Cap"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "MS Winword 2013: Trong Word, đ ể định dạng canh biên trái, biên ph ải, định dạng trang in ngang, d ọc… ta th ực hiện theo cách nào sau đây?:",
+    "answers": [
+      "Page Layout/Page Setup",
+      "File/Print",
+      "View/Print Layout",
+      "File/Options"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "MS Winword 2013: Trong Word, đ ể sửa lại nội dung m ột văn b ản đã có và lưu nó v ới tên m ới đồng th ời tập tin c ũ vẫn giữ nguyên, ta th ực hiện cách nào sau đây?:",
+    "answers": [
+      "File/Save As",
+      "File/Save",
+      "File/Page Setup",
+      "File/Save & Send"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "MS Winword 2013: Trong Word, đ ể di chuy ển đoạn văn b ản đã đư ợc chọn, ta th ực hiện cặp thao tác nào sau đây?",
+    "answers": [
+      "Copy và Paste",
+      "Cut và Paste",
+      "Copy và Cut",
+      "Alt + M"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "MS Winword 2013: Trong Word, đ ể sao chep đo ạn văn b ản đã đư ợc chọn, ta th ực hiện cặp thao tác nào sau đây?",
+    "answers": [
+      "Copy và Paste",
+      "Cut và Paste",
+      "Copy và Cut",
+      "Edit\\Options"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "MS Winword 2013: Trong Word, công c ụ Format Painter có ch ức năng gì?",
+    "answers": [
+      "V ẽ hình",
+      "Tô màu",
+      "Sao chép đ ịnh dạng",
+      "Cắt văn b ản"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 1,
+    "question": "MS Excel 2013: T ổ hợp phím nào cho phép ngay l ập tức đưa con tr ỏ về ô đầu tiên (ô A1) c ủa bảng tính",
+    "answers": [
+      "Ctrl+Home",
+      "Shift+Ctrl+Home",
+      "Alt + Home",
+      "Shift + Alt + Home"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "MS Excel 2013: T ại ô A2 có s ẵn giá tr ị số không (0); T ại ô B2 gõ vào công th ức =5/A2 thì nh ận được kết quả",
+    "answers": [
+      "#N/A",
+      "#NAME?",
+      "#V ALUE!",
+      "#DIV/0!"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 4,
+    "question": "MS Excel 2013: Đi ều kiện logic trong hàm IF đư ợc phát bi ểu dưới dạng m ột phép so sánh. Khi c ần so sánh khác nhau thì s ử dụng kí hi ệu nào?",
+    "answers": [
+      "#",
+      "><",
+      "<>",
+      "~"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "MS Excel 2013: Khi vi ết sai tên hàm trong tính toán, chương trình thông báo l ỗi?",
+    "answers": [
+      "#N/A",
+      "#NAME?",
+      "#V ALUE!",
+      "#DIV/0!"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "MS Excel 2013: Đ ể tham chi ếu dữ liệu từ bảng khác ta dùng hàm",
+    "answers": [
+      "Vlookup",
+      "Hlookup",
+      "Index",
+      "C ả 3 đều đúng"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "question": "MS Excel 2013: Khi d ữ liệu cần tham chi ếu nằm trên 1 hàng ở bảng tham chi ếu, ta dùng hàm",
+    "answers": [
+      "Vlookup",
+      "Hlookup",
+      "Index",
+      "C ả 3 đều đúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "MS Excel 2013: Khi d ữ liệu cần tham chi ếu nằm trên 1 c ột ở bảng tham chi ếu, ta dùng hàm",
+    "answers": [
+      "Vlookup",
+      "Hlookup",
+      "Index",
+      "C ả 3 đều đúng"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "MS Excel 2013: Khi đang làm vi ệc với Excel, t ổ hợp phím nào cho phép ngay l ập tức đưa con tr ỏ về ô đầu tiên (ô A1) c ủa bảng tính ?",
+    "answers": [
+      "Shift+Home",
+      "Alt+Home",
+      "Ctrl+Home",
+      "Shift+Ctrl+Home"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "question": "MS Excel 2013: Trong khi làm vi ệc với Excel, đ ể nhập vào công th ức tính toán cho một ô, trư ớc hết ta ph ải gõ:",
+    "answers": [
+      "D ấu chấm hỏi (?)",
+      "D ấu bằng (= )",
+      "D ấu hai ch ấm (: )",
+      "D ấu đô la ($)"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "MS Excel 2013: Trong b ảng tính Exce, n ếu trong m ột ô tính có các kí hi ệu #####, điều đó có ngh ĩa là gì?",
+    "answers": [
+      "Chương trình b ảng tính b ị nhiễm virus",
+      "Công th ức nhập sai và Excel thông báo l ỗi",
+      "Hàng ch ứa ô đó có đ ộ cao quá th ấp nên không hi ển thị hết chữ số",
+      "C ột chứa ô đó có đ ộ rộng quá h ẹp nên không hi ển thị hết chữ số"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 15,
+    "question": "MS Excel 2013: Câu nào sau đây sai? Khi nh ập dữ liệu vào b ảng tính Excel thì:",
+    "answers": [
+      "D ữ liệu kiểu số sẽ mặc nhiên căn th ẳng lề trái",
+      "D ữ liệu kiểu kí t ự sẽ mặc nhiên căn th ẳng lề trái",
+      "D ữ liệu kiểu thời gian s ẽ mặc nhiên căn th ẳng lề phải",
+      "D ữ liệu kiểu ngày tháng s ẽ mặc nhiên căn th ẳng lề phải"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "MS Excel 2013: Trong b ảng tính Excel, đ ể sửa dữ liệu trong m ột ô tính mà không c ần nhập lại, ta th ực hiện:",
+    "answers": [
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F2",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F4",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F10",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F12"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "MS Excel 2013: Trong b ảng tính Excel, đ ể lọc dữ liệu tự động, sau khi ch ọn khối cần lọc, ta th ực hiện:",
+    "answers": [
+      "Format - Filter - AutoFilter",
+      "Insert - Filter - AutoFilter",
+      "Data - Filter - AutoFilter",
+      "View - Filter - AutoFilter"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "MS Excel 2013: Khi đang làm vi ệc với Excel, có th ể di chuy ển từ sheet này sang sheet khác b ằng cách s ử dụng các phím ho ặc các t ổ hợp phím:",
+    "answers": [
+      "Page Up ; Page Down",
+      "Ctrl - Page Up ; Ctrl - Page Down",
+      "Ctrl - Page - A",
+      "Shift - Page - F"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "MS Excel 2013: Trong Excel, đ ể xuống dòng trong m ột ô, ta s ử dụng tổ hợp phím:",
+    "answers": [
+      "Alt + Enter",
+      "Spacebar + Enter",
+      "Shift + Enter",
+      "Ctrl + Enter"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "MS Excel 2013: Các đ ịa chỉ sau đây là đ ịa chỉ gì: $A1, B$5, C6, $L9, $DS7",
+    "answers": [
+      "Đ ịa chỉ tương đ ối",
+      "Đ ịa chỉ tuyệt đối",
+      "Đ ịa chỉ hỗn hợp",
+      "Đ ịa chỉ mặt định"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "MS Excel 2013: Khi gõ công th ức xong, r ồi Enter, máy hi ện ra #N/A có ngh ĩa là :",
+    "answers": [
+      "Không tìm th ấy tên hàm",
+      "Giá tr ị tham chi ếu không t ồn tại",
+      "Không tham chi ếu đến được",
+      "Tập hợp rỗng"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 32,
+    "question": "MS Excel 2013: Khi gõ công th ức xong, r ồi Enter, máy hi ện ra #REF! có ngh ĩa là :",
+    "answers": [
+      "Không tìm th ấy tên hàm",
+      "Giá tr ị tham chi ếu không t ồn tại",
+      "Không tham chi ếu đến được",
+      "Tập hợp rỗng."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "MS Excel 2013: Trong MS Excel, hàm nào dùng đ ể đếm các ô r ỗng trong 1 danh sách:",
+    "answers": [
+      "COUNTIF",
+      "COUNT",
+      "COUNTBLANK",
+      "COUNTA"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 38,
+    "question": "MS Excel 2013: Trong MS Excel, hàm tính t ổng có nhi ều điều kiện là hàm:",
+    "answers": [
+      "SUMIFS",
+      "SUMIF",
+      "DSUM",
+      "SUM"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "MS Excel 2013: Trong MS Excel, hàm đ ếm có nhi ều điều kiện là hàm:",
+    "answers": [
+      "COUNTIF",
+      "COUNTIFS",
+      "DCOUNT",
+      "COUNTA"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 56,
+    "question": "MS Excel 2013: Trong b ảng tính Excel, hàm nào sau đây cho phép tính t ổng các giá trị kiểu số thỏa mãn m ột điều kiện cho trư ớc?",
+    "answers": [
+      "SUM",
+      "COUNTIF",
+      "COUNT",
+      "SUMIF"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 57,
+    "question": "MS Excel 2013: Trong b ảng tính Excel, đ ể chèn thêm m ột cột vào trang tí nh, ta th ực hiện:",
+    "answers": [
+      "Table - Insert Columns.",
+      "Format - Cells - Insert Columns.",
+      "Table - Insert Cells.",
+      "Insert - Columns."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "MS Excel 2013: Khi đang làm vi ệc với Excel, có th ể di chuy ển từ sheet này sang sheet khác b ằng cách s ử dụng các phím ho ặc các t ổ hợp phím:",
+    "answers": [
+      "Page Up;",
+      "Ctrl -Page Up ; Ctrl - Page Down.",
+      "Page Down.",
+      "Print Page Down."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 59,
+    "question": "MS Excel 2013: Đ ể thiết lập chế độ lưu tự động trên Excel d ự phòng khi có s ự cố xảy ra, ta c ần?",
+    "answers": [
+      "Vào Tool/Options, ch ọn thẻ Save, tích vào ô Save AutoRecover info every, sau đó đi ền số phút t ự động lưu.",
+      "Vào File/Save đ ể lưu.",
+      "Vào File/Save đ ể lưu.",
+      "Nh ấn tổ hợp phím Ctrl + S."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "MS Excel 2013: Đ ể khởi động Excel ta ch ọn",
+    "answers": [
+      "Nh ấp đúp tr ỏ chuột lên bi ểu tượng lối tắt của Excel",
+      "Nh ấp chọn Program",
+      "Từ màn hình Dos, gõ Excel",
+      "Nh ấn chọn Start"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 61,
+    "question": "MS Excel 2013: Đ ể thoát kh ỏi Excel ta ch ọn",
+    "answers": [
+      "Nh ấn tổ hợp phím Ctrl + F4.",
+      "Ch ọn Edit \\Close",
+      "Nh ấn tổ hợp phím Alt + F4",
+      "Nh ấn tổ hợp phím Alt + F5"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 62,
+    "question": "MS Excel 2013: Trong Excel mu ốn bật tắt thanh công c ụ ta ch ọn",
+    "answers": [
+      "Ch ọn Tool, Option, General",
+      "Ch ọn View, Formular Bar",
+      "Ch ọn View, Toolbars, đánh d ấu chọn hoặc không ch ọn các thanh công c ụ",
+      "Nh ấn tổ hợp phím Ctrl + T."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 63,
+    "question": "MS Excel 2013: Mu ốn xóa sheet, ta ch ọn sheet đó r ồi",
+    "answers": [
+      "Ch ọn Edit, Delete sheet",
+      "Nh ấn tổ hợp phím Alt + E, L",
+      "Nh ấp chu ột phải trên tên sheet đ ể mở menu t ắt rồi chọn Delete",
+      "Nh ấn tổ hợp phím Ctrl +"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 64,
+    "question": "MS Excel 2013: Trong Excel đ ể mở tập tin có trong đ ĩa ta dùng",
+    "answers": [
+      "Ch ọn File",
+      "Tổ hợp phím Ctrl + N",
+      "Tổ hợp phím Ctrl + O",
+      "Ch ọn Open"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 65,
+    "question": "MS Excel 2013: Trong Excel đ ể lưu m ột tập tin vào đ ĩa ta dùng",
+    "answers": [
+      "Tổ hợp phím Ctrl + S",
+      "Tổ hợp phím Alt + S",
+      "Tổ hợp phí m Alt + Shift + S",
+      "C ả ba câu trên đ ều sai."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 66,
+    "question": "MS Excel 2013: Nh ấn phím F12 là đ ể",
+    "answers": [
+      "Th ực hiện lệnh Open",
+      "Th ực hiện lệnh Save As",
+      "Th ực hiện lệnh Close",
+      "Th ực hiện lệnh Print"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 67,
+    "question": "MS Excel 2013: Trong Excel đ ể đóng m ột tập tin ta dùng",
+    "answers": [
+      "Tổ hộp phím Alt + F",
+      "Ch ọn Tab Close",
+      "Tổ hợp phím Ctrl + W",
+      "Nh ấn Alt + F7"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 68,
+    "question": "MS Excel 2013: Theo 7 đ ịnh ký t ự dạng chu ỗi được",
+    "answers": [
+      "Canh ph ải trong ô",
+      "Canh trái trong ô",
+      "Canh đ ều hai bên",
+      "Canh gi ữa trong ô"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 69,
+    "question": "MS Excel 2013: Theo m ặt định ký t ự dạng số được",
+    "answers": [
+      "Canh ph ải trong ô",
+      "Canh trái trong ô",
+      "Canh đ ều hai bên",
+      "Canh gi ữa trong ô"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 70,
+    "question": "MS Excel 2013: Chèn d ấu (‘) trư ớc khi nh ập liệu vào ô là đ ể",
+    "answers": [
+      "Canh ch ỉnh dữ liệu trong ô bên trái",
+      "Canh ch ỉnh dữ liệu trong ô bên ph ải",
+      "Canh gi ữa dữ liệu trong ô",
+      "Canh đ ều hai bên d ữ liệu trong ô"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 73,
+    "question": "MS Excel 2013: Đ ể chọn toàn b ộ bảng tính ta",
+    "answers": [
+      "Nh ấn tổ hợp phím Ctrl + A",
+      "Nh ấn tổ hợp phím Ctrl + Shift + A",
+      "Nh ấn tổ hợp phím Shift + A",
+      "Nh ấn tổ hợp phím Shift + F2"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 74,
+    "question": "MS Excel 2013: Trong Excel, đ ể chèn hàng vào m ột bảng tính ta di chuy ển đến ô hiện hành đ ến vị trí hàng c ần thêm r ồi",
+    "answers": [
+      "Ch ọn Format, Cells",
+      "Ch ọn Format, Column",
+      "Ch ọn Insert, Row",
+      "Ch ọn Insert, Columns"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 75,
+    "question": "MS Excel 2013: Đ ể xóa d ữ liệu trong m ột ô ho ặc khối ô trong b ảng tính Excel ta chọn",
+    "answers": [
+      "Ch ọn ô (ho ặc khối ô) c ần xóa, r ồi nhấn phím Delete",
+      "Không c ần chọn ô (ho ặc khối ô), ch ỉ cần nhấn phím Delete",
+      "Ch ọn ô (ho ặc khối ô) c ần xóa, r ồi nhấn phím Insert",
+      "Ch ọn ô (ho ặc khối ô) c ần xóa, r ồi nhấn phím b ất kỳ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 76,
+    "question": "MS Excel 2013: Trong Excel đ ể sắp xếp cơ s ở dữ liệu ta ch ọn",
+    "answers": [
+      "Tool, Sort.",
+      "Format, Sort",
+      "Table, Sort.",
+      "Data, Sort."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 77,
+    "question": "MS Excel 2013: Các hàm sau đây hàm nào dùng đ ể điếm giá tr ị",
+    "answers": [
+      "Sum",
+      "Rank",
+      "Count",
+      "Int"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 84,
+    "question": "MS Excel 2013: Khi đang làm vi ệc với Excel, t ổ hợp phím nào cho phép ngay l ập tức đưa con tr ỏ về ô đầu tiên (ô A1) c ủa bảng tính ?",
+    "answers": [
+      "Shift+Home",
+      "Alt+Home",
+      "Ctrl+Home",
+      "Ctrl + Shift + S."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 85,
+    "question": "MS Excel 2013: Đ ể sửa dữ liệu trong m ột ô tính mà không c ần nhập lại, ta th ực hiện",
+    "answers": [
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F2",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F3",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F4",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F5"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 105,
+    "question": "MS Excel 2013: Đ ể xuống dòng trên cùng m ột Ô trong Excel, ta nh ấn tổ hợp phím nào?",
+    "answers": [
+      "Alt + Enter",
+      "Shift + Enter",
+      "Ctrl + Enter",
+      "Alt + Shift"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 144,
+    "question": "MS Excel 2013: N ếu chưa đ ịnh dạng, s ố 5 sẽ nằm bên nào c ủa ô",
+    "answers": [
+      "Ph ải",
+      "Trái",
+      "Gi ữa",
+      "Ph ụ thuộc vào đ ịnh dạng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 145,
+    "question": "MS Excel 2013: N ếu chưa đ ịnh dạng, s ố 5.5 s ẽ nằm bên nào c ủa ô",
+    "answers": [
+      "Ph ải",
+      "Trái",
+      "Gi ữa",
+      "Ph ụ thuộc vào đ ịnh dạng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 146,
+    "question": "MS Excel 2013: N ếu chưa đ ịnh dạng ch ữ \"hello\" s ẽ nằm bên nào c ủa ô",
+    "answers": [
+      "Trái",
+      "Ph ải",
+      "Gi ữa",
+      "Ph ụ thuộc vào đ ịnh dạng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 147,
+    "question": "MS Excel 2013: N ếu chưa đ ịnh dạng, ch ữ \"2017 hello\" s ẽ nằm bên nào c ủa ô",
+    "answers": [
+      "Trái",
+      "Ph ải",
+      "Gi ữa",
+      "Ph ụ thuộc vào đ ịnh dạng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 1,
+    "question": "MS Excel 2013: T ổ hợp phím nào cho phép ngay l ập tức đưa con tr ỏ về ô đầu tiên (ô A1) c ủa bảng tính",
+    "answers": [
+      "Ctrl+Home",
+      "Shift+Ctrl+Home",
+      "Alt + Home",
+      "Shift + Alt + Home"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "MS Excel 2013: T ại ô A2 có s ẵn giá tr ị số không (0); T ại ô B2 gõ vào công th ức =5/A2 thì nh ận được kết quả",
+    "answers": [
+      "#N/A",
+      "#NAME?",
+      "#V ALUE!",
+      "#DIV/0!"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 4,
+    "question": "MS Excel 2013: Đi ều kiện logic trong hàm IF đư ợc phát bi ểu dưới dạng m ột phép so sánh. Khi c ần so sánh khác nhau thì s ử dụng kí hi ệu nào?",
+    "answers": [
+      "#",
+      "><",
+      "<>",
+      "~"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "MS Excel 2013: Khi vi ết sai tên hàm trong tính toán, chương trình thông báo l ỗi?",
+    "answers": [
+      "#N/A",
+      "#NAME?",
+      "#V ALUE!",
+      "#DIV/0!"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "MS Excel 2013: Đ ể tham chi ếu dữ liệu từ bảng khác ta dùng hàm",
+    "answers": [
+      "Vlookup",
+      "Hlookup",
+      "Index",
+      "C ả 3 đều đúng"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "question": "MS Excel 2013: Khi d ữ liệu cần tham chi ếu nằm trên 1 hàng ở bảng tham chi ếu, ta dùng hàm",
+    "answers": [
+      "Vlookup",
+      "Hlookup",
+      "Index",
+      "C ả 3 đều đúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "MS Excel 2013: Khi d ữ liệu cần tham chi ếu nằm trên 1 c ột ở bảng tham chi ếu, ta dùng hàm",
+    "answers": [
+      "Vlookup",
+      "Hlookup",
+      "Index",
+      "C ả 3 đều đúng"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "MS Excel 2013: Khi đang làm vi ệc với Excel, t ổ hợp phím nào cho phép ngay l ập tức đưa con tr ỏ về ô đầu tiên (ô A1) c ủa bảng tính ?",
+    "answers": [
+      "Shift+Home",
+      "Alt+Home",
+      "Ctrl+Home",
+      "Shift+Ctrl+Home"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "question": "MS Excel 2013: Trong khi làm vi ệc với Excel, đ ể nhập vào công th ức tính toán cho một ô, trư ớc hết ta ph ải gõ:",
+    "answers": [
+      "D ấu chấm hỏi (?)",
+      "D ấu bằng (= )",
+      "D ấu hai ch ấm (: )",
+      "D ấu đô la ($)"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "MS Excel 2013: Trong b ảng tính Exce, n ếu trong m ột ô tính có các kí hi ệu #####, điều đó có ngh ĩa là gì?",
+    "answers": [
+      "Chương trình b ảng tính b ị nhiễm virus",
+      "Công th ức nhập sai và Excel thông báo l ỗi",
+      "Hàng ch ứa ô đó có đ ộ cao quá th ấp nên không hi ển thị hết chữ số",
+      "C ột chứa ô đó có độ rộng quá h ẹp nên không hi ển thị hết chữ số"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 15,
+    "question": "MS Excel 2013: Câu nào sau đây sai? Khi nh ập dữ liệu vào b ảng tính Excel thì:",
+    "answers": [
+      "D ữ liệu kiểu số sẽ mặc nhiên căn th ẳng lề trái",
+      "D ữ liệu kiểu kí t ự sẽ mặc nhiên căn th ẳng lề trái",
+      "D ữ liệu kiểu thời gian s ẽ mặc nhiên căn th ẳng lề phải",
+      "D ữ liệu kiểu ngày tháng s ẽ mặc nhiên căn th ẳng lề phải"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "MS Excel 2013: Trong b ảng tính Excel, đ ể sửa dữ liệu trong m ột ô tính mà không c ần nhập lại, ta th ực hiện:",
+    "answers": [
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F2",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F4",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F10",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F12"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "MS Excel 2013: Trong b ảng tính Excel, đ ể lọc dữ liệu tự động, sau khi ch ọn khối cần lọc, ta th ực hiện:",
+    "answers": [
+      "Format - Filter - AutoFilter",
+      "Insert - Filter - AutoFilter",
+      "Data - Filter - AutoFilter",
+      "View - Filter - AutoFilter"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "MS Excel 2013: Khi đang làm vi ệc với Excel, có th ể di chuy ển từ sheet này sang sheet khác b ằng cách s ử dụng các phím ho ặc các t ổ hợp phím:",
+    "answers": [
+      "Page Up ; Page Down",
+      "Ctrl - Page Up ; Ctrl - Page Down",
+      "Ctrl - Page - A",
+      "Shift - Page - F"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "MS Excel 2013: Trong Excel, đ ể xuống dòng trong m ột ô, ta s ử dụng tổ hợp phím:",
+    "answers": [
+      "Alt + Enter",
+      "Spacebar + Enter",
+      "Shift + Enter",
+      "Ctrl + Enter"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "MS Excel 2013: Các đ ịa chỉ sau đây là đ ịa chỉ gì: $A1, B$5, C6, $L9, $DS7",
+    "answers": [
+      "Đ ịa chỉ tương đ ối",
+      "Đ ịa chỉ tuyệt đối",
+      "Đ ịa chỉ hỗn hợp",
+      "Đ ịa chỉ mặt định"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "MS Excel 2013: Khi gõ công th ức xong, r ồi Enter, máy hi ện ra #N/A có ngh ĩa là :",
+    "answers": [
+      "Không tìm th ấy tên hàm",
+      "Giá tr ị tham chi ếu không t ồn tại",
+      "Không tham chi ếu đến được",
+      "Tập hợp rỗng"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 32,
+    "question": "MS Excel 2013: Khi gõ công th ức xong, r ồi Enter, máy hi ện ra #REF! có ngh ĩa là :",
+    "answers": [
+      "Không tìm th ấy tên hàm",
+      "Giá tr ị tham chi ếu không t ồn tại",
+      "Không tham chi ếu đến được",
+      "Tập hợp rỗng."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "MS Excel 2013: Trong MS Excel, hàm nào dùng đ ể đếm các ô r ỗng trong 1 danh sách:",
+    "answers": [
+      "COUNTIF",
+      "COUNT",
+      "COUNTBLANK",
+      "COUNTA"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 38,
+    "question": "MS Excel 2013: Trong MS Excel, hàm tính t ổng có nhi ều điều kiện là hàm:",
+    "answers": [
+      "SUMIFS",
+      "SUMIF",
+      "DSUM",
+      "SUM"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "MS Excel 2013: Trong MS Excel, hàm đ ếm có nhi ều điều kiện là hàm:",
+    "answers": [
+      "COUNTIF",
+      "COUNTIFS",
+      "DCOUNT",
+      "COUNTA"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 56,
+    "question": "MS Excel 2013: Trong b ảng tính Excel, hàm nào sau đây cho phép tính t ổng các giá trị kiểu số thỏa mãn m ột điều kiện cho trư ớc?",
+    "answers": [
+      "SUM",
+      "COUNTIF",
+      "COUNT",
+      "SUMIF"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 57,
+    "question": "MS Excel 2013: Trong b ảng tính Excel, đ ể chèn thêm m ột cột vào trang tính, ta th ực hiện:",
+    "answers": [
+      "Table - Insert Columns.",
+      "Format - Cells - Insert Columns.",
+      "Table - Insert Cells.",
+      "Insert - Columns."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "MS Excel 2013: Khi đang làm vi ệc với Excel, có th ể di chuy ển từ sheet này sang sheet khác b ằng cách s ử dụng các phím ho ặc các t ổ hợp phím:",
+    "answers": [
+      "Page Up;",
+      "Ctrl -Page Up ; Ctrl - Page Down.",
+      "Page Down.",
+      "Print Page Down."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 59,
+    "question": "MS Excel 2013: Đ ể thiết lập chế độ lưu tự động trên Excel d ự phòng khi có s ự cố xảy ra, ta c ần?",
+    "answers": [
+      "Vào Tool/Options, ch ọn thẻ Save, tích vào ô Save AutoRecover info every, sau đó đi ền số phút t ự động lưu.",
+      "Vào File/Save đ ể lưu.",
+      "Vào File/Save đ ể lưu.",
+      "Nh ấn tổ hợp phím Ctrl + S."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "MS Excel 2013: Đ ể khởi động Excel ta ch ọn",
+    "answers": [
+      "Nh ấp đúp tr ỏ chuột lên bi ểu tượng lối tắt của Excel",
+      "Nh ấp chọn Program",
+      "Từ màn hình Dos, gõ Excel",
+      "Nh ấn chọn Start"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 61,
+    "question": "MS Excel 2013: Đ ể thoát kh ỏi Excel ta ch ọn",
+    "answers": [
+      "Nh ấn tổ hợp phím Ctrl + F4.",
+      "Ch ọn Edit \\Close",
+      "Nh ấn tổ hợp phím Alt + F4",
+      "Nh ấn tổ hợp phím Alt + F5"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 62,
+    "question": "MS Excel 2013: Trong Excel mu ốn bật tắt thanh công c ụ ta ch ọn",
+    "answers": [
+      "Ch ọn Tool, Option, General",
+      "Ch ọn View, Formular Bar",
+      "Ch ọn View, Toolbars, đánh d ấu chọn hoặc không ch ọn các thanh công c ụ",
+      "Nh ấn tổ hợp phím Ctrl + T."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 63,
+    "question": "MS Excel 2013: Mu ốn xóa sheet, ta ch ọn sheet đó r ồi",
+    "answers": [
+      "Ch ọn Edit, Delete sheet",
+      "Nh ấn tổ hợp phím Alt + E, L",
+      "Nh ấp chu ột phải trên tên sheet đ ể mở menu t ắt rồi chọn Delete",
+      "Nh ấn tổ hợp phím Ctrl +"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 64,
+    "question": "MS Excel 2013: Trong Excel đ ể mở tập tin có trong đ ĩa ta dùng",
+    "answers": [
+      "Ch ọn File",
+      "Tổ hợp phím Ctrl + N",
+      "Tổ hợp phím Ctrl + O",
+      "Ch ọn Open"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 65,
+    "question": "MS Excel 2013: Trong Excel đ ể lưu m ột tập tin vào đ ĩa ta dùng",
+    "answers": [
+      "Tổ hợp phím Ctrl + S",
+      "Tổ hợp phím Alt + S",
+      "Tổ hợp phí m Alt + Shift + S",
+      "C ả ba câu trên đ ều sai."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 66,
+    "question": "MS Excel 2013: Nh ấn phím F12 là đ ể",
+    "answers": [
+      "Th ực hiện lệnh Open",
+      "Th ực hiện lệnh Save As",
+      "Th ực hiện lệnh Close",
+      "Th ực hiện lệnh Print"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 67,
+    "question": "MS Excel 2013: Trong Excel đ ể đóng m ột tập tin ta dùng",
+    "answers": [
+      "Tổ hộp phím Alt + F",
+      "Ch ọn Tab Close",
+      "Tổ hợp phím Ctrl + W",
+      "Nh ấn Alt + F7"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 68,
+    "question": "MS Excel 2013: Theo 7 đ ịnh ký t ự dạng chu ỗi được",
+    "answers": [
+      "Canh ph ải trong ô",
+      "Canh trái trong ô",
+      "Canh đ ều hai bên",
+      "Canh gi ữa trong ô"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 69,
+    "question": "MS Excel 2013: Theo m ặt định ký t ự dạng số được",
+    "answers": [
+      "Canh ph ải trong ô",
+      "Canh trái trong ô",
+      "Canh đ ều hai bên",
+      "Canh gi ữa trong ô"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 70,
+    "question": "MS Excel 2013: Chèn d ấu (‘) trư ớc khi nh ập liệu vào ô là đ ể",
+    "answers": [
+      "Canh ch ỉnh dữ liệu trong ô bên trái",
+      "Canh ch ỉnh dữ liệu trong ô bên ph ải",
+      "Canh gi ữa dữ liệu trong ô",
+      "Canh đ ều hai bên d ữ liệu trong ô"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 73,
+    "question": "MS Excel 2013: Đ ể chọn toàn b ộ bảng tính ta",
+    "answers": [
+      "Nh ấn tổ hợp phím Ctrl + A",
+      "Nh ấn tổ hợp phím Ctrl + Shift + A",
+      "Nh ấn tổ hợp phím Shift + A",
+      "Nh ấn tổ hợp phím Shift + F2"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 74,
+    "question": "MS Excel 2013: Trong Excel, đ ể chèn hàng vào m ột bảng tính ta di chuy ển đến ô hiện hành đ ến vị trí hàng c ần thêm r ồi",
+    "answers": [
+      "Ch ọn Format, Cells",
+      "Ch ọn Format, Column",
+      "Ch ọn Insert, Row",
+      "Ch ọn Insert, Columns"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 75,
+    "question": "MS Excel 2013: Đ ể xóa d ữ liệu trong m ột ô ho ặc khối ô trong b ảng tính Excel ta chọn",
+    "answers": [
+      "Ch ọn ô (ho ặc khối ô) c ần xóa, r ồi nhấn phím Delete",
+      "Không c ần chọn ô (ho ặc khối ô), ch ỉ cần nhấn phím Delete",
+      "Ch ọn ô (ho ặc khối ô) c ần xóa, r ồi nhấn phím Insert",
+      "Ch ọn ô (ho ặc khối ô) c ần xóa, r ồi nhấn phím b ất kỳ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 76,
+    "question": "MS Excel 2013: Trong Excel đ ể sắp xếp cơ s ở dữ liệu ta ch ọn",
+    "answers": [
+      "Tool, Sort.",
+      "Format, Sort",
+      "Table, Sort.",
+      "Data, Sort."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 77,
+    "question": "MS Excel 2013: Các hàm sau đây hàm nào dùng đ ể điếm giá tr ị",
+    "answers": [
+      "Sum",
+      "Rank",
+      "Count",
+      "Int"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 84,
+    "question": "MS Excel 2013: Khi đang làm vi ệc với Excel, t ổ hợp phím nào cho phép ngay l ập tức đưa con tr ỏ về ô đầu tiên (ô A1) c ủa bảng tính ?",
+    "answers": [
+      "Shift+Home",
+      "Alt+Home",
+      "Ctrl+Home",
+      "Ctrl + Shift + S."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 85,
+    "question": "MS Excel 2013: Đ ể sửa dữ liệu trong m ột ô tính mà không c ần nhập lại, ta th ực hiện",
+    "answers": [
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F2",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F3",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F4",
+      "Nháy chu ột chọn ô tính c ần sửa, rồi bấm phím F5"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 105,
+    "question": "MS Excel 2013: Đ ể xuống dòng trên cùng m ột Ô trong Excel, ta nh ấn tổ hợp phím nào?",
+    "answers": [
+      "Alt + Enter",
+      "Shift + Enter",
+      "Ctrl + Enter",
+      "Alt + Shift"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 144,
+    "question": "MS Excel 2013: N ếu chưa đ ịnh dạng, s ố 5 sẽ nằm bên nào c ủa ô",
+    "answers": [
+      "Ph ải",
+      "Trái",
+      "Gi ữa",
+      "Ph ụ thuộc vào đ ịnh dạng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 145,
+    "question": "MS Excel 2013: N ếu chưa đ ịnh dạng, s ố 5.5 s ẽ nằm bên nào c ủa ô",
+    "answers": [
+      "Ph ải",
+      "Trái",
+      "Gi ữa",
+      "Ph ụ thuộc vào đ ịnh dạng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 146,
+    "question": "MS Excel 2013: N ếu chưa đ ịnh dạng ch ữ \"hello\" s ẽ nằm bên nào c ủa ô",
+    "answers": [
+      "Trái",
+      "Ph ải",
+      "Gi ữa",
+      "Ph ụ thuộc vào đ ịnh dạng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 147,
+    "question": "MS Excel 2013: N ếu chưa đ ịnh dạng, ch ữ \"2017 hello\" s ẽ nằm bên nào c ủa ô",
+    "answers": [
+      "Trái",
+      "Ph ải",
+      "Gi ữa",
+      "Ph ụ thuộc vào đ ịnh dạng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 1,
+    "question": "MS Powerpoint 2013: Muốn trình di ễn tài li ệu được soạn thảo, ta th ực hiện",
+    "answers": [
+      "File - View Show",
+      "Window - View Show",
+      "Slide Show - View Show",
+      "Tools - View Show"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "MS Powerpoint 2013: Để thêm m ột Slide m ới vào, ta th ực hiện:",
+    "answers": [
+      "Home - New Slide",
+      "Design - New Slide",
+      "Slide Show - New Slide",
+      "Insert - New Slide"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 3,
+    "question": "MS Powerpoint 2013: Để thay đ ổi thiết kế của Slide, ta th ực hiện",
+    "answers": [
+      "Home - Themes",
+      "Design - Themes",
+      "Slide Show - Themes",
+      "Insert - Themes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "MS Powerpoint 2013: Để thiết lập hiệu ứng cho đ ối tượng trong 1 slide, ta th ực hiện:",
+    "answers": [
+      "Transition - chọn hiệu ứng",
+      "Design - chọn hiệu ứng",
+      "Slide Show - chọn hiệu ứng",
+      "Animations - chọn hiệu ứng"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 5,
+    "question": "MS Powerpoint 2013: Một đối tượng trong 1 slide có th ể thiết lập bao nhiêu hi ệu ứng",
+    "answers": [
+      "1",
+      "Nhi ều",
+      "3",
+      "2"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "MS Powerpoint 2013: Muốn xóa b ỏ hiệu ứng trình di ễn, ta ch ọn đối tượng cần xóa b ỏ hiệu ứng và th ực hiện",
+    "answers": [
+      "Animations, r ồi chọn delete",
+      "Animations - Animation Pane, r ồi chọn Remove",
+      "Animation Pane, r ồi chọn delete",
+      "Animation Pane, r ồi chọn Remove"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "MS Powerpoint 2013: Để chạy Slide ta c ần chọn",
+    "answers": [
+      "B ấm F5",
+      "view/ slide show",
+      "cả hai đ ều đúng",
+      "C ả hai đ ều sai"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "MS Powerpoint 2013: Để tạo hiệu ứng chuy ển tiếp giữa các slide ta vào slide show chọn",
+    "answers": [
+      "Slide transition",
+      "View show",
+      "Custom animation",
+      "Slide Master"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "MS Powerpoint 2013: Để tạo slide m ới",
+    "answers": [
+      "Nhấn Ctrl + N",
+      "Nhấn F5",
+      "Slide Master",
+      "Nhấn Ctrl + S"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "MS Powerpoint 2013: Để lưu các slide ta ph ải",
+    "answers": [
+      "Nhấn Ctrl + S",
+      "file / save",
+      "cả hai đúng",
+      "cả hai sai"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "question": "MS Powerpoint 2013: Số lượng các slide c ủa 1 bài",
+    "answers": [
+      "Tùy ý",
+      "Từ 1 đến 3 Slide",
+      "Từ 3 Slide tr ở lên",
+      "Số Slide không đư ợc vượt quá 100"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "MS Powerpoint 2013: Tạo hiệu ứng ho ạt hình cho slide ta vào slide show ch ọn",
+    "answers": [
+      "custom animation",
+      "preset animation",
+      "custom show",
+      "cả 3 đều sai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "MS Powerpoint 2013: chọn kiểu slide",
+    "answers": [
+      "format / slide layout",
+      "common tasks/ slide layout",
+      "cả hai đúng",
+      "cả hai sai"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "MS Powerpoint 2013: Để sử dụng màu n ền có s ẵn từ các m ẫu cho các slide ta vào format ch ọn",
+    "answers": [
+      "apply design template",
+      "background",
+      "cả hai đúng",
+      "cả hai sai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "MS Powerpoint 2013: Để thực thi các slide :",
+    "answers": [
+      "F5",
+      "Slide show",
+      "Ctrl + F5",
+      "Alt + F5"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "MS Powerpoint 2013: Để tạo màu n ền cho slide",
+    "answers": [
+      "Format / background",
+      "Format / font",
+      "Font/Colors",
+      "Edit/Colors"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "MS Powerpoint 2013: Trong trình so ạn thảo trình chi ếu MS Powerpoint, m ục Design cho phép b ạn:",
+    "answers": [
+      "Chèn và đ ịnh dạng Picture cho trang trình chi ếu.",
+      "Chèn và đ ịnh dạng Shape cho trang trình chi ếu.",
+      "Thi ết kế và định dạng Theme, Background, Style cho trang trình chi ếu.",
+      "Thêm và đ ịnh dạng Hi ệu ứng của đối tượng trang trình chi ếu."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "MS Powerpoint 2013: Trong trình so ạn thảo trình chi ếu MS Powerpoint, m ục Transitions cho phép b ạn:",
+    "answers": [
+      "Thêm và đ ịnh dạng Hi ệu ứng lật trang cho trang trình chi ếu.",
+      "Chèn và đ ịnh dạng Shape cho trang trình chi ếu.",
+      "Thi ết kế và định dạng Theme, Background, Style cho trang trình chi ếu",
+      "Thêm và đ ịnh dạng Hi ệu ứng các đ ối tượng trang trình chi ếu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "MS Powerpoint 2013: Thêm và đ ịnh dạng Hi ệu ứng các đ ối tượng trang trình chi ếu",
+    "answers": [
+      "Chèn và đ ịnh dạng Picture cho trang trình chi ếu.",
+      "Thi ết kế và định dạng Theme, Background, Style cho trang trình chi ếu.",
+      "Thêm và đ ịnh dạng Hi ệu ứng lật trang cho trang trình chi ếu.",
+      "Thêm và đ ịnh dạng Hi ệu ứng các đ ối tượng trang trình chi ếu."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 20,
+    "question": "MS Powerpoint 2013: Trong trình so ạn thảo trình chi ếu MS Powerpoint, v ới mỗi đối tượng bạn có th ể thêm bao nhiêu Hi ệu ứng cho đ ối tượng đó ?",
+    "answers": [
+      "M ột",
+      "Hai",
+      "Ba",
+      "R ất nhiều."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 21,
+    "question": "MS Powerpoint 2013: Trong b ảng qu ản lý các Hi ệu ứng (Animation Pane), b ạn có thể:",
+    "answers": [
+      "Thay đ ổi thứ tự xuất hiện cho các hi ệu ứng.",
+      "Thi ết lập hiệu ứng.",
+      "Copy hiệu ứng.",
+      "Copy hi ệu ứng cho Slide ."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "MS Powerpoint 2013: Chuyên m ục nào sau đây không n ằm trong ph ần hiệu ứng Animations c ủa soạn thảo trình chi ếu MS Powerpoint ?",
+    "answers": [
+      "Xu ất hiện (Entrance)",
+      "N ội dung đ ộng (Dynamic Content)",
+      "Làm n ổi bật (Emphasis)",
+      "Bi ến mất (Exit)"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "MS Powerpoint 2013: Trong trình so ạn thảo trình chi ếu MS Powerpoint, đ ể bắt đầu chạy trình chi ếu thì b ạn bấm:",
+    "answers": [
+      "F5",
+      "Shift + F5",
+      "F12",
+      "F7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "MS Powerpoint 2013: Trong trình so ạn thảo trình chi ếu MS Powerpoint, đ ể bắt đầu chạy trình chi ếu từ Slide đang ch ọn thì b ạn bấm:",
+    "answers": [
+      "F5",
+      "Shift + F5",
+      "Ctrl + N",
+      "Ctrl + M"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "MS Powerpoint 2013: Trong trình so ạn thảo trình chi ếu MS Powerpoint, đ ể Copy Slide đang ch ọn xuống ngay phía dư ới slide đó thì b ạn bấm:",
+    "answers": [
+      "Ctrl + W",
+      "Ctrl + M",
+      "Ctrl + D",
+      "Ctrl + S"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "question": "MS Powerpoint 2013: Trong trình so ạn thảo trình chi ếu MS Powerpoint, đ ể thoát khỏi chế độ trình chi ếu slide thì b ạn bấm:",
+    "answers": [
+      "F5",
+      "Shift + F5",
+      "Esc",
+      "F12"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "MS Powerpoint 2013: Sau khi đã thi ết kế xong bài trình di ễn, cách làm nào sau đây không ph ải để trình chi ếu ngay bài trình di ễn đó?",
+    "answers": [
+      "Ch ọn Slide Show -> Custom Show",
+      "Ch ọn Slide Show -> View Show",
+      "Ch ọn View -> Slide Show",
+      "Nh ấn phím F5"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "MS Powerpoint 2013: Thao tác ch ọn File -> Close dùng đ ể",
+    "answers": [
+      "lưu t ập tin hi ện tại",
+      "m ở một tập tin nào đó",
+      "đóng t ập tin hi ện tại",
+      "Thoát kh ỏi Powerpoint"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 29,
+    "question": "MS Powerpoint 2013: Sau khi đã ch ọn một đoạn văn b ản, cách nào sau đây không phải để làm m ất đi đo ạn văn b ản đó?",
+    "answers": [
+      "Ch ọn Edit -> Cut.",
+      "Nh ấn tổ hợp phím Alt + X",
+      "Nh ắp chu ột trái vào nút l ệnh Cut (bi ểu tượng là cái kéo) trên thanh công c ụ.",
+      "Nh ấn phím Delete."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "MS Powerpoint 2013: Đang trình chi ếu một bài trình di ễn, mu ốn dừng trình di ễn ta nhấn phím",
+    "answers": [
+      "Tab",
+      "Esc",
+      "Home",
+      "End"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 1,
+    "question": "Lan/Internet: D ạng m ạng nào dư ới đây là k ết nối point to point?",
+    "answers": [
+      "Star",
+      "Ring",
+      "Bus",
+      "Router"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "Lan/Internet: D ạng m ạng nào dư ới đây các tr ạm phân chia chung m ột đường truy ền chung?",
+    "answers": [
+      "Star",
+      "Ring",
+      "Bus",
+      "Router"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Lan/Internet: D ạng m ạng nào dư ới đây tín hi ệu đư ợc truy ền đi trên vòng theo m ột chiều duy nh ất?",
+    "answers": [
+      "Star",
+      "Ring",
+      "Bus",
+      "Router"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "Lan/Internet: D ạng cáp nào dư ới đây có t ốc độ truyền tín hi ệu cao nh ất?",
+    "answers": [
+      "Cáp đ ồng trục",
+      "Cáp xo ắn đôi",
+      "Cáp quang",
+      "Cáp Router"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "Lan/Internet: Khi s ử dụng m ạng máy tính ta s ẽ được các l ợi ích gì?",
+    "answers": [
+      "Chia s ẻ tài nguyên ( ổ cứng, cơ s ở dữ liệu, máy in… )",
+      "Qu ản lý không tập trung",
+      "X ử lý thông tin không chính xác",
+      "Qu ản lý hóa d ữ liệu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "Lan/Internet: M ạng nối nhiều máy tính v ới nhau trong ph ạm vi m ột tòa nhà g ọi là?",
+    "answers": [
+      "LAN",
+      "WAN",
+      "MAN",
+      "INTERNET"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "Lan/Internet: M ạng di ện rộng, dùng đ ể kết nối máy tính trong n ội bộ các qu ốc gia hay giữa các qu ốc gia trong cùng m ột châu l ục gọi là?",
+    "answers": [
+      "LAN",
+      "WAN",
+      "MAN",
+      "INTERNET"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "Lan/Internet: Đ ặc điểm mạng LAN?",
+    "answers": [
+      "M ạng nối các máy tính trong ph ạm vi 1 tòa nhà",
+      "Tốc độ liệu cao",
+      "Tỷ lệ dữ liệu",
+      "Máy tính trong ph ạm vi cho phép"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "Lan/Internet: H ệ điều hành nào dư ới đây dành cho máy ch ủ?",
+    "answers": [
+      "Windows XP",
+      "Windows 7",
+      "Windows Server 2008",
+      "Windows 8"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "Lan/Internet: Đ ặc điểm của mạng hình sao?",
+    "answers": [
+      "Tất cả các tr ạm chưa đư ợc kết nối thiết bị trung tâm",
+      "D ễ dàng b ổ sung hay lo ại bỏ bớt máy tính",
+      "D ễ dàng gi ải quy ết đường truy ền",
+      "Tất cả các tr ạm chưa được kết"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "Lan/Internet: Đ ặc điểm của mạng dạng đư ờng th ẳng",
+    "answers": [
+      "Tất cả các nút m ạng kết nối vào nút m ạng trung tâm",
+      "Tất cả kết nối trên cùng m ột đường truy ền vật lý",
+      "Tất cả các nút m ạng đều kết nối trực tiếp với nhau",
+      "M ỗi nút m ạng kết nối với 2 nút m ạng còn l ại"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "Lan/Internet: D ịch vụ DHCP dùng đ ể?",
+    "answers": [
+      "C ấp địa chỉ IP cho máy tr ạm",
+      "Phân gi ải tên mi ền và đ ịa chỉ IP",
+      "Truy ền file qua m ạng",
+      "G ửi thư đi ện tử"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "Lan/Internet: D ịch vụ DNS dùng đ ể?",
+    "answers": [
+      "C ấp địa chỉ IP cho máy tr ạm",
+      "Phân gi ải tên mi ền và đ ịa chỉ IP",
+      "Truy ền file qua m ạng",
+      "G ửi thư đi ện tử"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "Lan/Internet: Khi so ạn thảo Email mu ốn đính kèm t ập tin chúng ta ch ọn?",
+    "answers": [
+      "Send",
+      "Copy",
+      "Attachment",
+      "File/save"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 37,
+    "question": "Lan/Internet: Ph ần mềm nào dư ới đây khô ng ph ải là trình duy ệt?",
+    "answers": [
+      "C ốc Cốc",
+      "Firefox",
+      "Safari",
+      "VLC Player"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 38,
+    "question": "Lan/Internet: Nút BACK trên trình duy ệt dùng đ ể?",
+    "answers": [
+      "Tr ở lại trang trư ớc",
+      "Đi đ ến trang k ế tiếp",
+      "Truy c ập lịch sử duyệt web",
+      "V ề trang ch ủ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "Lan/Internet: Đ ể điều khi ển máy tính t ừ xa trong m ạng LAN, ta thư ờng sử dụng ph ần mềm nào?",
+    "answers": [
+      "Remote Desktop Connection",
+      "Team Viewer",
+      "Chrome",
+      "VLC Player"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "Lan/Internet: WWW vi ết tắt của?",
+    "answers": [
+      "Word Wide Web",
+      "World Wide Wed",
+      "Wed wide world",
+      "Win Word Wed"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 61,
+    "question": "Lan/Internet: Nh ững ph ần mềm nào dùng đ ể duyệt web?",
+    "answers": [
+      "Chrome",
+      "Hệ điều hành",
+      "Ứng dụng văn phòng",
+      "Hệ thống m ạng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 62,
+    "question": "Lan/Internet: HTTP là gì?",
+    "answers": [
+      "Giao th ức truy ền siêu văn b ản",
+      "Ngôn ng ữ soạn thảo web",
+      "Tên c ủa trang web",
+      "Đ ịa chỉ của trang web"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 68,
+    "question": "Lan/Internet: Đèn Link c ủa Router ADSL không sáng. L ỗi này có th ể là lỗi nào sau đây",
+    "answers": [
+      "H ỏng dây đi ện tho ại",
+      "H ỏng dây Cable",
+      "H ỏng đầu RJ45",
+      "Hỏng Switch"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 69,
+    "question": "Lan/Internet: Đèn Data c ủa Router ADSL không sáng. L ỗi này có th ể là lỗi nào sau đây",
+    "answers": [
+      "K ết nối về ISP b ị lỗi",
+      "H ỏng dây đi ện tho ại",
+      "H ỏng đầu RJ45",
+      "H ỏng dây Cable"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 70,
+    "question": "Lan/Internet: Icon Lan (n ằm dư ới system bar) b ị dấu chéo đ ỏ. Lỗi này có th ể là lỗi nào sau đây",
+    "answers": [
+      "H ỏng cable",
+      "H ỏng dây đi ện tho ại",
+      "K ết nối về ISP b ị lỗi",
+      "Hỏng Switch"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 71,
+    "question": "Lan/Internet: Icon Lan (n ằm dư ới system bar) b ị dấu chấm thang vàng. L ỗi này có th ể là lỗi nào sau đây",
+    "answers": [
+      "Lỗi thiết lập địa chỉ IP",
+      "H ỏng cable",
+      "H ỏng dây đi ện tho ại",
+      "K ết nối về ISP b ị lỗi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 98,
+    "question": "Lan/Internet: Laptop có th ể vừa sử dụng card m ạng có dây và không dây đư ợc hay không",
+    "answers": [
+      "Đư ợc",
+      "Không",
+      "Đư ợc, nhưng ph ải của hãng LinkSys",
+      "Đư ợc, nhưng thi ết bị phải do ISP c ấp"
+    ],
+    "correctAnswer": 0
+  }
+]
