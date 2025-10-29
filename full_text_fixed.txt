@@ -1,0 +1,2175 @@
+1. Kiến thức chung: Để tắt máy tínhđúng cách ta chọn 
+A. Tắt nguồnđiện 
+B. Bấm nút Power trên hộp máy  
+C. Bấm nút Reset trên hộp máy  
+D. Nhấn nút Startở góc dưới bên trái màn hình nền và chọn mục Shutdown.  
+Answer: D  
+ 
+2. Kiến thức chung: Để phòng chống Virus cách tốt nhất là? 
+A. Thường xuyên kiểm trađĩa, đặc biệt thận trọng khi sao chép dữ liệu 
+B. Sử dụng các chương trình cập nhật thường xuyên  
+C. Thường xuyên lưu dữ liệu 
+D. Sử dụngứng dụng bảo vệổđĩa 
+Answer: A 
+ 
+3. Kiến thức chung: Khiđặt tên tệp hoặc thư mục trong DOS khôngđược sử dụng các ký 
+tự nào sauđây?  
+A. . , ? \ / ; : = < > [ ]  
+B. Các chữ số từ 1 đến 5 
+C. Các chữ cái từ Ađến G 
+D. Các chữ và sốđi cùng nhau  
+Answer: A  
+ 
+4. Kiến thức chung: Chọn câu trả lời thích hợp nhất: “Tại sao phảiđịnh kì sử dụng công 
+cụ chống phân mảnhđĩa cứng: 
+A. Đểổđĩa cứng máy tính lâu hỏng 
+B. Để tốcđộ truy xuất dữ liệu từđĩa cứng nhanh hơn  
+C. Để tạo ra nhiều không gian trống hơn trongđĩa cứng 
+D. Để nén dữ liệu trongđĩa cứng tốt hơn  
+Answer: B  
+ 
+5. Kiến thức chung: Virus tin học thực chất là? 
+A. Một loại vi sinh vật sống ký sinh trên các thiết bị vật lý của máy tính  
+B. Một kháng thể không tồn tại 
+C. Mộtđoạn chương trình có kích thước lớn 
+D. Tồn tại bên ngoài không khí  
+Answer: A 
+ 
+6. Kiến thức chung: Bạnđã càiđặt mộtđĩa hoàn toàn mới và bạn muốnđịnh dạng nó. 
+Mụcđích của công việcđịnh dạng là gì?  
+A. Phục hồi dữ liệu bị mất trongđĩa 
+B. Tạo mộtđĩa chỉđọc 
+C. Tạo mộtđĩađểđọc và chấp nhận dữ liệu 
+D. Làm cho nhiều người sử dụng có thể truy nhậpđượcđĩa 
+Answer: C  
+ 
+7. Kiến thức chung: Các phát biểu sau, phát biểu nàođúng:  
+A. Tên File khôngđược chứa khoảng trắng 
+B. Tên File không nên có dấu tiếng Việt 
+C. Tên Fileđược dài trên 255 kí tự 
+D. Tên Fileđược chấp nhận kí tự # 
+Answer: B  
+ 
+8. Kiến thức chung: Bạn nhậnđược một bức thưđiện tử chứa tệp tinđính kèm mà bạn 
+không nhận biết ra, bạn sẽ xử lý thế nào trong tình  huống nàyđểđảm bảo an toàn?  
+A. Mở tệp tin này rađể kiểm tra loại tệp tin 
+B. Chuyển thư này cho aiđó mà bạn nghĩ rằng bạn có thể nhận biếtđược 
+C. Quét tập tin này bằng chương trình chống virus  
+D. Lưu bản sao tập tin này vàođĩa cứng và mở bản sao này  
+Answer: C  
+ 
+9. Kiến thức chung: Câu nào dướiđây khôngđúng?  
+A. Vi rút máy tính lây nhiễm qua  khi dùng chung máy tính  
+B. Vi rút máy tính lây nhiễm khi sao chép quađĩa mềm, đĩa CD  
+C. Vi rút máy tính lây nhiễm khi sao chép qua mạng 
+D. Vi rút máy tính lây nhiễm qua Internet  
+Answer: A  
+ 
+10. Kiến thức chung: Ở tình huống nào dướiđây, máy tính thực thi công việc tốt hơn con 
+người? 
+A. Khi dịch một cuốn sách  
+B. Khi chẩnđoán bệnh 
+C. Khi phân tích tâm lý một con người 
+D. Khi thực hiện một phép toán phức tạp 
+Answer: D  
+ 
+11. Kiến thức chung: Virus máy tính lây lan qua những conđường nào ?  
+A. Qua thiết bị nhớ USB.  
+B. Từ các file 
+C. Từ cácứng dụng  
+D. Từ Ram.  
+Answer: A 
+ 
+12. Kiến thức chung: Phát biểu nào về hệđiều hành sauđây là khôngđúng ?  
+A. Hệđiều hànhđảm bảo giao tiếp giữa người dùng và máy tính.  
+B. Chức năng chính của hệđiều hành là thực hiện tìm kiếm thông tin trên Internet.  
+C. Hệđiều hành cung cấp các phương tiện và dịch vụđể người sử dụng dễ dàng thực 
+hiện chương trình, quản lí chặt chẽ, khai thác các tài  nguyên của máy tính một cách tối 
+ưu. 
+D. Hệđiều hành Windows là một hệđiều hành dùng cho máy tính cá nhân của hãng 
+Microsoft.  
+Answer: B  
+ 
+13. Kiến thức chung: Trong hệđiều hành Windows, để mở chương trình quản lý tác vụ 
+(Task Manager) bạn dùng tổ hợp phím:  
+A. Ctrl + S  
+B. Alt + F4  
+C. Ctrl + Alt + F4  
+D. Ctrl + Alt + Delete  
+Answer: D  
+ 
+14. Kiến thức chung: Trong máy tính, thông tin tồn tại dưới các dạng tập tin nào ?  
+A. Tập tin chương trình  
+B. Tập tin dữ liệu 
+C. Cả haiđềuđúng  
+D. Cả haiđều sai 
+Answer: C  
+ 
+15. Kiến thức chung: Khi khởiđộng máy tính, phần mềm nàođược thực hiện trước ? 
+A. Hệđiều hành  
+B. Phần mềm gõ tiếng Việt 
+C. Phần mềm diệt Virus máy tính  
+D. Phần mềm Word, Excel  
+Answer: A  
+ 
+16. Kiến thức chung: Theo bạn phần mềm Windows, Linux cóđặcđiểm nào chung ?  
+A. Cả haiđều là phần mềmứng dụng 
+B. Cả haiđều là thiết bị phần cứng 
+C. Cả haiđều là hệđiều hành  
+D. Cả haiđều là phần mềm hệ thống 
+Answer: C  
+ 
+17. Kiến thức chung: Khiđang dùng máy tính, để khởiđộng lại hệ thống thì bạn dùng 
+cách nào sauđây:  
+A. Tại giao diện desktop => Alt + F4 => Restart  
+B. Kích Start menu => Shutdown  
+C. Bấm nút  Restart trên hộp máy  
+D. Bấm Alt + F4.  
+Answer: A 
+ 
+18. Kiến thức chung: Khiđang dùng máy tính, để tắt hệ thốngđúng cách thì bạn dùng 
+cách nào sauđây:  
+A. Rút dây nguồnđiện máy tính  
+B. Kích Start menu => Shutdown  
+C. Bấm nút Power trên hộp máy  
+D. Bấm nút Reset trên hộp máy  
+Answer: B  
+ 
+19. Kiến thức chung: Trong hệđiều hành Windows, muốn khởi chạy một chương trình 
+nàođó thì:  
+A. Mở My Computer và kíchđôi chuột trái vào tê n chương trình  
+B. Mở và kích vào chương trình => bấm Enter  
+C. Mở và kích chuột phải vào chương trình => Open  
+D. Mở và kíchđôi chuột trái vào tên chương trình  
+Answer: A 
+ 
+20. Kiến thức chung: Trong hệđiều hành Windows, khiđang mở cửa sổ thư mục hiện 
+hành bạn muốn trở về màn hình nền desktop thì:  
+A. Bấm tổ hợp phím Windows + D  
+B. Kích chuột phải lên thanh Taskbar => Show the desktop  
+C. Cả hai cách trênđềuđúng  
+D. Cả hai cách trênđều sai.  
+Answer: C  
+ 
+21. Kiến thức chung: Trong hệđiều hành Windows, các tập tinđược chọn và xoá bằng tổ 
+hợp phím Shift + Delete thì:  
+A. Có thể khôi phục bằng cách mở trong My Computer  
+B. Có thể khôi phục bằng cách mở trong My Documents  
+C. Có thể khôi phục bằng cách mở trong Recycle Bin  
+D. Không thể khôi phục lạiđược. 
+Answer: D  
+ 
+22. Kiến thức chung: Trong hệđiều hành Windows, biểu tượng của thư mục thường có 
+màu?  
+A. Xanh  
+B. Đỏ 
+C. Tím  
+D. Vàng  
+Answer: D  
+ 
+23. Kiến thức chung: Trong hệđiều hành Windows, thư mục thườngđược tổ chức dưới 
+dạng: 
+A. Chuỗi 
+B. Dây  
+C. Cây  
+D. Đồ thị 
+Answer: C  
+ 
+24. Kiến thức chung: Trong hệđiều hành Windows, để mở chương trình quản lý tác vụ 
+(Task Manager) thì bạn dùng tổ hợp phím nào:  
+A. Ctrl + F1  
+B. Alt + F4  
+C. Ctrl + Alt + Delete  
+D. Ctrl + Shift + Delete  
+Answer: C  
+ 
+25. Kiến thức chung: Trong My Computer của hệđiều hành Windows, để xoá mộtđối 
+tượng tập tin hay thư mục thì bạn: 
+A. Kích vàođối tượngđó và nhấn phím Delete  
+B. Kích chuột phải và chọn Delete  
+C. Kích và nhấn tổ hợp phím Ctrl + D  
+D. Kích chọn Delete  
+Answer: A 
+ 
+26. Kiến thức chung: Định dạng tập tin cóđuôi *.exe là:  
+A. Tập tin chương trình  
+B. Tập tin dữ liệu 
+C. Cả haiđềuđúng  
+D. Cả haiđều sai 
+Answer: A  
+ 
+27. Kiến thức chung: Trong My Computer của hệđiều hành Windows, bạn phải nhấn giữ 
+phím nàođể chọn lần lượt từngđối tượng thư mục hoặc tập tin riêng lẻ ? 
+A. Ctrl  
+B. Shift  
+C. Alt  
+D. Insert  
+Answer: A  
+ 
+28. Kiến thức chung: Trong hệđiều hành Windows, chuỗi ký tự nào sauđây không phù 
+hợpđểđặt tên cho tập tin của bạn ? 
+A. Thuchanhword.doc  
+B. Baibạnpnhom.docx  
+C. http://tttinhoc.duytan.edu.vn  
+D. Hinhanh.bmp  
+Answer: C  
+ 
+29. Kiến thức chung: Theo bạn, virus máy tính gây ra tác hại nàođối với người dùng ?  
+A. Tiêu tốn tài nguyên hệ thống. 
+B. Phá hủy thiết bị 
+C. Đánh cắp thiết bị 
+D. Phá hủy bộ nhớ 
+Answer: A 
+ 
+30. Kiến thức chung: Chương trình nào sauđây không phải là chương trình diệt virus ?  
+A. Kaspersky  
+B. Winrar  
+C. Avast Free Antivirus  
+D. BKA V  
+Answer: B  
+ 
+31. Kiến thức chung: Hãy cho biết thiết bị nào sauđây là thiết bị nhập? 
+A. Bàn phím, chuột, máy scan  
+B. Màn hình, bàn phím, chuột 
+C. Má y in 
+D. Máy scan  
+Answer: A  
+ 
+32. Kiến thức chung: Máy tính là gì?  
+A. Là công cụ phát hiện nói dối 
+B. Là công cụ cho phép xử lý thông tin một cách thủ công  
+C. Là công cụ không dùngđể tính toán  
+D. Là công cụ cho phép xử lý thông tin một cách tựđộng 
+Answer: D  
+ 
+33. Kiến thức chung: Đĩa CDRW có chức năng gì sauđây?  
+A. Đọc/ghi  
+B. Đọc 
+C. Ghi  
+D. Lưu 
+Answer: A  
+ 
+34. Kiến thức chung: RAM là viết tắt của 
+A. Reliable Access Memory  
+B. Recordable Access Memory  
+C. Random Access Memory  
+D. Readable Access Memony  
+Answer: C  
+ 
+35. Kiến thức chung: Cổng giao tiếp nào sauđây không sử dụng cho máy in?  
+A. USB  
+B. Parallel  
+C. Network  
+D. PS/2  
+Answer: D  
+ 
+36. Kiến thức chung: Ổđĩa cứng là thiết bị thuộc loại 
+A. Bộ nhớ trong  
+B. Bộ nhớ ngoài  
+C. Bộ nhớ cốđịnh 
+D. Bộ nhớ truy cập ngẫu nhiên  
+Answer: B  
+ 
+37. Kiến thức chung: Cách nào sauđây không thể mở Task Manager?  
+A. Nhấn tổ hợp phím: Ctrl, Alt, Del  
+B. Nhấn tổ hợp phím: Ctrl, Shift, Esc  
+C. Click chuột phải vào thanh Taskbar chọn TaskManager  
+D. Chạy lệnh "taskmanager" trong hộp thoại Run  
+Answer: D  
+ 
+38. Kiến thức chung: Tổ hợp phím nào sauđây có tác dụngđóng chương trình hiện hành  
+A. Alt+F4  
+B. Alt+F5  
+C. Alt+F6  
+D. Alt+F7  
+Answer: A  
+ 
+39. Kiến thức chung: Tổ hợp phím nào sauđây có tác dụng khởiđộng chươ ng trình 
+Explorer  
+A. Win+E  
+B. Win+R  
+C. Win+T  
+D. Win+Y  
+Answer: A  
+ 
+40. Kiến thức chung: Để xem thuộc tính của file hay thư mục ta thực hiện thao tác nào  
+A. Chọn file hoặc thư mục cần xem sauđó nhấn tổ hợp phím Alt+Enter  
+B. Click chuột phải chọn Properties  
+C. Nhấn tổ hợp phím Alt+Enter  
+D. Nhấn tổ hợp phím Ctrl+Enter  
+Answer: A 
+ 
+41. Kiến thức chung: Muốn xem các chương trìnhđã càiđặt trong máy tính ta dùng 
+chương trình nào sauđây trong Control Panel  
+A. Programs and Features  
+B. Mouse  
+C. Personalization  
+D. Keyboard  
+Answer: A  
+ 
+42. Kiến thức chung: Khi thao tác bảo trì máy tính người kỹ thuật viên cần phải mặc gì?  
+A. Đồng phục bảo hộ laođộng 
+B. Đồng phục thể thao 
+C. Đồng phục học thể dục 
+D. Không cầnđồng phục 
+Answer: A  
+ 
+43. Kiến thức chung: Người kỹ thuật viên cần tuân thủ nguyên tắc gì khi thao tác sửa 
+chữa trực tiếp với máy tính  
+A. Khôngđi chân trần khi tiếp xúc  
+B. Không mặcáo quá nóng  
+C. Không mặc quần dài  
+D. Khôngđội nón bảo hiểm 
+Answer: A  
+ 
+44. Kiến thức chung: Trước khi thao tác trực tiếp với thiết bị người kỹ thuật viên cần làm 
+gìđầu tiên?  
+A. Dùng bút thửđiệnđể kiểm tra trước khi thao tác  
+B. Mở thiết bị ra sửa ngay  
+C. Gọiđiện cho khách hàng  
+D. Vào internet xem quy trình sửa chữa 
+Answer: A  
+ 
+45. Kiến thức chung: Nguyên tắc nào sauđây có thể cải thiện tình trạng an toàn cho 
+người kỹ thuật viên  
+A. 5S  
+B. 4S  
+C. 3S  
+D. 2S  
+Answer: A  
+ 
+46. Kiến thức chung: Khi thao tác sửa chữa thiết bị vớiđộ cao trên 2m người kỹ thuật 
+viên tuyệtđối phải làm gì?  
+A. Đeo dây an toàn  
+B. Quan sát kỹ trước khi leo lên cao  
+C. Mang máy xuống thấpđể thao tác  
+D. Không cần làm gì  
+Answer: A  
+ 
+47. Kiến thức chung: Cần phải làm gì trước khi thao tác bảo trì dữ liệu 
+A. Sao lưu dữ liệu 
+B. Xóa dữ liệu 
+C. Cắt dữ liệu 
+D. Không cần phải làm gì  
+Answer: A  
+ 
+1. Windows 10:  Muốn di chuyển một cửa sổ thì thao tác nào dướiđây làđúng:  
+A. Nhắp chuột phải, chọn lệnh Move  
+B. Nhấn tổ hợp phím Ctrl  + M 
+C. Chọn Menu Windows; Move  
+D. Trỏ chuột vào thanh tiêuđề (Title bar) và kéođến vị trí mới 
+Answer: B  
+ 
+2. Windows 10:  Thiết lập hiển thị các folder có thuộc tínhẩnởđâu?  
+A. Control Panel / Folder Option / General tab  
+B. Folder Properties / General tab  
+C. Control Panel / Folder Option / View tab  
+D. Folder Properties / Security tab  
+Answer: C  
+ 
+3. Windows 10:  Biểu tượng của các lối tắt (Shortcut) giúp bạn truy cập nhanhđếnđối 
+tượng nào dướiđây :  
+A. Chương trình  
+B. Ổđĩa 
+C. Tập tin tư liệu 
+D. Nhấn tổ hợp phím Ctrl  +S 
+Answer: D  
+ 
+4. Windows 10:  Thiết bị vừa là thiết bị xuất vừa là thiết bị nhập của máy tính  
+A. Máy in  
+B. Bà n phím  
+C. Màn hình  
+D. Đĩa cd-rw/dvd -rw 
+Answer: D  
+ 
+5. Windows 10:  Muốn khôi phục lạiđối tượngđã xóa trong Recycle Bin, ta chọnđối 
+tượng rồi thực hiện: 
+A. File - Copy  
+B. File - Open  
+C. File - Restore  
+D. File - Move To Folder…  
+Answer: C  
+ 
+6. Windows 10:  Để thiếtđặt lại hệ thống, ta chọn chức năng  
+A. Control Panel  
+B. Control Windows  
+C. Control System  
+D. Control Desktop  
+Answer: A  
+ 
+7. Windows 10:  Chương trình dùngđể quản lí các tệp và thư mục là 
+A. Accessories  
+B. Windows Explorer  
+C. Internet Explorer  
+D. Control Panel  
+Answer: B  
+ 
+8. Windows 10:  Chương trình nào như một máy tính bỏ túi tích hợp trong Windows  
+A. Notepad  
+B. Calculator  
+C. MS Word  
+D. MS Excel  
+Answer: B  
+ 
+9. Windows 10:  Muốn càiđặt máy in, ta thực hiện 
+A. File - Printer and Faxes, rồi chọn mục Add a printer  
+B. Window - Printer and Faxes, rồi chọn mục Add a printer  
+C. Start - Printer and Faxes, rồi chọn mục Add a printer  
+D. Tools - Printer and Faxes, rồi chọn mục Add a printer  
+Answer: C  
+ 
+10. Windows 10:  Trong cửa sổ Explore, để chọn một lúc các file hoặc folder nằm không 
+kề nhau trong một danh sách  
+A. Giữ phím Ctrl và nháy chuột vào từng mục muốn chọn trong danh sách  
+B. Nháy chuộtở mụcđầu, ấn và giữ Shift nháy chuộtở mục cuối 
+C. Giữ phím Alt và nháy chuột vào từng mục muốn chọn trong danh sách  
+D. Giữ phím Tab và nháy chuột vào từng mục muốn chọn trong danh sách  
+Answer: A  
+ 
+11. Windows 10:  Để thoát khỏi một chương trình trongứng dụng của Windows, ta dùng 
+tổ hợp phím  
+A. Alt – F4 
+B. Ctrl – F5 
+C. Shift – F4 
+D. Alt – F5 
+Answer: A  
+ 
+12. Windows 10:  Kiến thức chung: Bộ nhớ RAM và ROM là bộ nhớ gì? 
+A. Secondary memory  
+B. Receive memory  
+C. Primary memory  
+D. Random access memory  
+Answer: C  
+ 
+13. Windows 10:  Windows Explorer có các thành phần: Explorer bar, Explorer view, Tool 
+bar, menu bar. Còn lại là gì?  
+A. Status bar  
+B. Menu bar  
+C. Task bar  
+D. Control panel  
+Answer: C  
+ 
+14. Windows 10:  Chương trình cho phépđịnh lại cấu hình hệ thống thayđổi môi trường 
+làm việc cho phù hợp 
+A. Display  
+B. Control panel  
+C. Sreen Saver  
+D. Task bar  
+Answer: C  
+ 
+15. Windows 10:  Trong Windows, khi xoá file hoặc folder thì nóđược lưu trong Recycle 
+Bin, muốn xoá hẳn file hoặc folder ta bấm tổ hợp phím  nào: 
+A. Shift_Del  
+B. Alt_Del  
+C. Ctrl_Del  
+D. Task bar  
+Answer: A  
+ 
+16. Windows 10:  Trong hệđiều hành Windows, thuộc tính nào dướiđây dùngđề hiển thị 
+thanh công việc (Taskbar) trên các cửa sổ chương trình?  
+A. Lock the Taskbar  
+B. Auto -Hide the Taskbar  
+C. Keep the Taskbar on top of other Windows  
+D. Show the clock  
+Answer: B  
+ 
+17. Windows 10:  Trong hệđiều hành Windows, để phục hồi tất cả cácđối tượng trong 
+Recycle Bin (thùng rác) ta nháy phải chuột tại Recycle Bin  và chọn lệnh: 
+A. Delete  
+B. Restore  
+C. Redo  
+D. Undo Delete  
+Answer: B  
+ 
+18. Windows 10:  Nhấn giữ phím nào khi muốn chọn nhiềuđối tượng liên tiếp nhau?  
+A. Ctrl  
+B. Alt  
+C. Tab  
+D. Shift  
+Answer: D  
+ 
+19. Windows 10:  Trong hệđiều hành Windows, để dán các tệp/thư mục sau khiđã thực 
+hiện lệnh copy, ta mởổđĩa, thư mục muốn chứa bản sao  và: 
+A. Vào bảng chọn Edità chọn Paste.  
+B. Nhấn tổ hợp phí m Ctrl + V .  
+C. Nháy phải chuột tại vùng trống bên trongổđĩa, thư mục chaà chọn Paste.  
+D. Cácý trênđềuđúng  
+Answer: D  
+ 
+20. Windows 10:  Các thành phần: bộ nhớ chính, bộ xử lý trungương, bộ phận nhập xuất, 
+các loại hệđiều hành là:  
+A. Control Panel  
+B. Phần mềm 
+C. Thiết bị lưu trữ 
+D. Ứng dụng 
+Answer: A 
+ 
+21. Windows 10:  Trên hệđiều hành Windows, để chuyểnđổi cửa sổ chương trình cần 
+làm việc ta: 
+A. Nháy chọn biểu tượng chương trình tươngứng trên thanh công việc (Taskbar).  
+B. Nhấn giữ phím Alt  + C. 
+C. Nháy vào một vị trí muốn kích hoạt. 
+D. Nháy vào một vị trí bất kỳ. 
+Answer: A 
+ 
+22. Windows 10:  Trong các phần mềm sau, phần mềm nào là phần mềmứng dụng? 
+A. Windows XP  
+B. Microsoft Word  
+C. Linux  
+D. Unix  
+Answer: B  
+ 
+23. Windows 10:  muốn khôi phụcđối tượngđã xóa, ta mở cửa sổ Recycle Bin, chọnđối 
+tượng muốn khôi phục và 
+A. Nhấp chọn Edit và Restore.  
+B. Nhấp chọn Edit và Delete.  
+C. Nhấp chọn File và Restore.  
+D. Nhấp chọn File và Delete.  
+Answer: A  
+ 
+24. Windows 10:  Muốnđổi tên cho thư mục/tệp tin trong hệđiều hành Windows, ta chọn 
+thư mục/tệp tin cầnđổi tên và thực hiện thao tác nào sau  đây?  
+A. Nhấp chọn File và chọn Rename và nhập tên mới và nhấn phím Enter.  
+B. Nhấn phím F2 và nhập tên mới và nhấn phím Enter.  
+C. Nhấp chọn chuột phải tại thư mục/tệp tin và nhập tên mới và nhấn phím Enter.  
+D. Cácý trênđềuđúng.  
+Answer: D  
+ 
+25. Windows 10:  Để xoá các tệp/thư mụcđang chọn ta thực hiện cách nào?  
+A. Vào bảng chọn Edit và UnDelete và Yes.  
+B. Nhấn tổ hợp phím Ctrl + Delete và Yes.  
+C. Nhấn phím Delete và Yes.  
+D. Cácý trênđềuđúng.  
+Answer: D  
+ 
+26. Windows 10:  Để dán các tệp/thư mục sau khiđã thực hiện lệnh copy, ta mởổđĩa, thư 
+mục muốn chứa bản sao và:  
+A. Chọn Edit và chọn Paste.  
+B. Nhấn tổ hợp phím Ctrl + V .  
+C. Nháy phải chuột tại vùng trống bên trongổđĩa và chọn Paste.  
+D. Nháy phải chuột tại thư mục cha và chọn Paste.  
+Answer: B 
+ 
+27. Windows 10:  Trong hệđiều hành Windows, muốnđóng (thoát) cửa sổ chương trình 
+ứng dụngđang làm việc ta: 
+A. Nhấn tổ hợp phím Ctrl + F3  
+B. Nhấn phím F11  
+C. Nhấn tổ hợp phím Alt + F4.  
+D. Nhấn tổ hợp phím Alt + Q 
+Answer: C  
+ 
+28. Windows 10:  Để quản lý tệp, thư mục ta thường dùng chương trình nào sauđây:  
+A. Internet Explorer  
+B. Windows Explorer.  
+C. Microsoft Word.  
+D. Microsoft Excel.  
+Answer: B  
+ 
+29. Windows 10:  Muốn thayđổi các thông số khu vực trong hệđiều hành Windows như 
+múi giờ, đơn vị tiền tệ, cách viết số, ... ta sử dụng chương  trình nào trong các chương 
+trình sau  
+A. Microsoft Paint  
+B. System Tools  
+C. Control Panel  
+D. Caculator  
+Answer: C  
+ 
+30. Windows 10:  Muốn chọn tất cả cácđối tượng trong cửa sổ thư mục hiện tại, ta dùng 
+phím (tổ hợp phím) nào sauđây  
+A. Shift + F4  
+B. Ctrl +A  
+C. Alt + H  
+D. F11  
+Answer: B  
+ 
+1. MS Winword 2013:  Tổ hợp phím Ctrl + O dùngđể 
+A. Mở một Document mới 
+B. Mở một Documentđã có  
+C. Đóng Documentđang mở 
+D. Đó ng và lưu Documentđang mở 
+Answer: B  
+ 
+2. MS Winword 2013:  Tổ hợp phím nào cho phép chọn tất cả văn bảnđang soạn thảo 
+A. Ctrl + A  
+B. Ctrl + End  
+C. Alt + A  
+D. Alt + End  
+Answer: A  
+ 
+3. MS Winword 2013:  Trong Bảng (Table), để tách mộtô thành nhiềuô, ta thực hiện: 
+A. LayOut - Cells  
+B. Design - Cells  
+C. LayOut - Split Cells  
+D. Design - Split Cells  
+Answer: C 
+ 
+4. MS Winword 2013:  Muốnđịnh dạng cácđoạn văn bản theo kiểu danh sách, ta thực 
+hiện: 
+A. Home - Bullets and Numbering  
+B. View - Bullets and Numbering  
+C. Insert - Bullets and Numbering  
+D. Review - Bullets and Numbering  
+Answer: A  
+ 
+5. MS Winword 2013:  Để chèn tiêuđề trang (đầu trang và chân trang), ta thực hiện 
+A. Insert - Header and Footer  
+B. View - Header and Footer  
+C. Home - Header and Footer  
+D. Review - Header and Footer  
+Answer: A  
+ 
+6. MS Winword 2013:  Để soạn thảo một công thức toán học, ta thường dùng  
+A. Insert - Word Art  
+B. Insert - Equation  
+C. Insert - Chart  
+D. Insert - Shapes  
+Answer: B  
+7. MS Winword 2013:  Mộtđối tượng sử dụng loại Wraps text nàođể văn bản lấpđầy các 
+khoảng trong xung quanh nó.  
+A. Spuare  
+B. Tight  
+C. Through  
+D. Top and Bottom  
+Answer: C  
+ 
+8. MS Winword 2013:  Đểđịnh dạng lại trang giấy in, ta thực hiện 
+A. File - Print  
+B. Page Layout - Page Setup  
+C. File - Page Setup  
+D. Page Layout - Print  
+Answer: B  
+ 
+9. MS Winword 2013:  Để chuyểnđổi giữa hai chếđộ gõ : chếđộ gõ chèn và chếđộ gõ 
+đè; ta bấm 
+A. Tab  
+B. Shift + Del  
+C. Insert  
+D. Shift + Insert  
+Answer: C  
+ 
+10. MS Winword 2013:  Trong Word, để tạo chỉ số trên (m2), bạn thực hiện gõ m2, bôi 
+đen chỉ số 2 rồi thực hiện tiếp tổ hợp phím nào sauđây?  
+A. Ctrl , Shift, =  
+B. Ctrl , =  
+C. Shift, =  
+D. Ctrl , Shift  
+Answer: A  
+ 
+11. MS Winword 2013:  Trong Word, để tạo chỉ số dưới (H2), bạn thực hiện gõ H2, bôi 
+đen chỉ số 2 rồi thực hiện tiếp tổ hợp phím nào sauđây?  
+A. Ctrl , Shift, =  
+B. Ctrl , =  
+C. Shift, =  
+D. Ctrl , Shift  
+Answer: B  
+ 
+12. MS Winword 2013:  Trong Word, khiđã bôiđen mộtđoạn văn bản in nhạt, muốn 
+đoạn văn bản nàyđậm lên, bạn dùng tổ hợp phím nào sauđây?  
+A. Ctrl + P  
+B. Ctrl + X  
+C. Ctrl + C  
+D. Ctrl + B  
+Answer: D  
+ 
+13. MS Winword 2013:  Trong Word, bạn có một Bảng (Table) gồm 3 cột, 5 dòng. Con trỏ 
+đangởô cuối cùng trên dòng số 5, muốn thêm một dòng  mớiở cuối bảng, bạn thực hiện 
+cách nào sauđây?  
+A. Tab  
+B. Kích chuột phải -> Insert  
+C. Kích chuột phải -> Insert Cells  
+D. Chọn  Insert Rows Below  
+Answer: A 
+ 
+14. MS Winword 2013:  Trong Wordđể dãn khoản cách giữa các dòng là 1,5 line, sau khi 
+bôiđen các dòng văn bản ta thực hiện cách nào sauđây?  
+A. Ctrl + Shift + 5 
+B. Paragraph/Line Spacing -> chọn 1,5 lines  
+C. Ctrl + Shift + F 5 
+D. Ctrl + Shift + F6  
+Answer: B 
+ 
+15. MS Winword 2013:  Trong Wordđể ngắt trang trong Word ta dùng tổ hợp phím nào 
+sauđây?  
+A. Alt + Enter  
+B. Alt + Shift  
+C. Shift + Enter  
+D. Ctrl + Enter  
+Answer: D  
+ 
+16. MS Winword 2013:  Trong Wordđể chọn toàn bộ mộtô bất kỳ trong bảng, ta thực 
+hiện theo cách nào sauđây?  
+A. Bôiđen phần văn bản trênôđó  
+B. Nhấnđúp chuột vàoôđó  
+C. Nhấn chuột vào phía trênôđó  
+D. Nhấn chuột vào góc dưới bên tráiôđó.  
+Answer: D  
+ 
+17. MS Winword 2013:  Trong Word, ta có thể tạo chữ in hoa bằng công cụ Drop Cap cho 
+trường hợp nào sauđây?  
+A. Chữ cáiđầu của mỗiđoạn trong văn bản 
+B. Một số chữ cáiđầu củađoạnđầu tiên trong văn bản 
+C. Chữ cáiđầu dòng trên Table  
+D. Chữ cáiđầuđoạn văn bảng trong Text box  
+Answer: A  
+ 
+18. MS Winword 2013:  Trong Word, File BangdiemSV dùng làm dữ liệuđể trộn thư in 
+bảngđiểm cá nhân cho sinh viên, File BangdiemSV không  thể dùngđượcở dạng nào sau 
+đây?  
+A. BangdiemSV .xls  
+B. BangdiemSV .txt  
+C. BangdiemSV .doc  
+D. BangdiemSV .pdf  
+Answer: D  
+ 
+19. MS Winword 2013:  Trong Word, khiđã bôiđen mộtđoạn văn bản, muốn tăng kích 
+cỡ của chữ bạn dùng tổ hợp phím nào sauđây?  
+A. Ctrl + ]  
+B. Ctrl + }  
+C. Ctrl + {  
+D. Ctrl + [  
+Answer: A  
+ 
+20. MS Winword 2013:  Trong Word, khiđã bôiđen mộtđoạn văn bản, muốn giảm kích 
+cỡ của chữ bạn dùng tổ hợp phím nào sauđây?  
+A. Ctrl + ]  
+B. Ctrl + }  
+C. Ctrl + {  
+D. Ctrl + [  
+Answer: D  
+ 
+21. MS Winword 2013:  Trong Word, mộtđoạn văn bản có chỉ mục nếu bạn muốn xuống 
+dòng mà không muốn dòngđó có chỉ mục thì bạn dùng tổ hợp phím nào sauđây?  
+A. Alt + Enter  
+B. Shift + Enter  
+C. Ctrl + Enter  
+D. Alt +  F4 
+Answer: B  
+ 
+22. MS Winword 2013:  Trong Word, khiđã bôiđen mộtđoạn văn bản gõ chữ thường, 
+muốnđịnhk dạng thành chữ IN HOA bạn dùng tổ hợp phím  nào sauđây?  
+A. Shift + F1  
+B. Shift + F2  
+C. Shift + F3  
+D. Shift + F4  
+Answer: C  
+ 
+23. MS Winword 2013:  Trong Word, khiđã bôiđen mộtđoạn văn bản gõ chữ IN HOA, 
+muốnđịnhk dạng thành chữ thường bạn dùng tổ hợp phím  nào sauđây?  
+A. Shift + F1  
+B. Shift + F2  
+C. Shift + F3  
+D. Shift + F4  
+Answer: C  
+ 
+24. MS Winword 2013:  Trong Word, bôiđen mộtđoạn văn bản rồi lần lượt thực hiện 
+thao tác : Nhấn tổ hợp phím Ctrl + B tiếpđến là Ctrl + I, cụm từđược bôiđen sẽ : 
+A. In nghiêng  
+B. Inđậm 
+C. Có gạch chân  
+D. Inđậm và nghiêng  
+Answer: D  
+ 
+25. MS Winword 2013:  Trong Word, đểđịnh dạng chữ cái lớnđầuđoạn văn bản ta thực 
+hiện: 
+A. Home/Drop Cap  
+B. Insert/Drop Cap  
+C. View/Drop Cap  
+D. Tool/Drop Cap  
+Answer: B  
+ 
+26. MS Winword 2013:  Trong Word, đểđịnh dạng canh biên trái, biên phải, định dạng 
+trang in ngang, dọc… ta thực hiện theo cách nào sauđây?:  
+A. Page Layout/Page Setup  
+B. File/Print  
+C. View/Print Layout  
+D. File/Options  
+Answer: A  
+ 
+27. MS Winword 2013:  Trong Word, để sửa lại nội dung một văn bảnđã có và lưu nó với 
+tên mớiđồng thời tập tin cũ vẫn giữ nguyên, ta thực hiện cách nào sauđây?:  
+A. File/Save As  
+B. File/Save  
+C. File/Page Setup  
+D. File/Save & Send  
+Answer: A  
+ 
+28. MS Winword 2013:  Trong Word, để di chuyểnđoạn văn bảnđãđược chọn, ta thực 
+hiện cặp thao tác nào sauđây?  
+A. Copy và Paste  
+B. Cut và Paste  
+C. Copy và Cut  
+D. Alt + M  
+Answer: B  
+ 
+29. MS Winword 2013:  Trong Word, để sao chepđoạn văn bảnđãđược chọn, ta thực 
+hiện cặp thao tác nào sauđây?  
+A. Copy và Paste  
+B. Cut và Paste  
+C. Copy và Cut  
+D. Edit\Options  
+Answer: A  
+ 
+30. MS Winword 2013:  Trong Word, công cụ Format Painter có chức năng gì?  
+A. Vẽ hình 
+B. Tô màu  
+C. Sao chépđịnh dạng 
+D. Cắt văn bản 
+Answer: C  
+ 
+1. MS Winword 2013:  Tổ hợp phím Ctrl + O dùngđể 
+A. Mở một Document mới 
+B. Mở một Documentđã có  
+C. Đóng Documentđang mở 
+D. Đóng và lưu Documentđang mở 
+Answer: B  
+ 
+2. MS Winword 2013:  Tổ hợp phím nào cho phép chọn tất cả văn bảnđang soạn thảo 
+A. Ctrl + A  
+B. Ctrl + End  
+C. Alt + A  
+D. Alt + End  
+Answer: A  
+ 
+3. MS Winword 2013:  Trong Bảng (Table), để tách mộtô thành nhiềuô, ta thực hiện: 
+A. LayOut - Cells  
+B. Design - Cells  
+C. LayOut - Split Cells  
+D. Design - Split Cells  
+Answer: C 
+ 
+4. MS Winword 2013:  Muốnđịnh dạng cácđoạn văn bản theo kiểu danh sách, ta thực 
+hiện: 
+A. Home - Bullets and Numbering  
+B. View - Bullets and Numbering  
+C. Insert - Bullets and Numbering  
+D. Review - Bullets and Numbering  
+Answer: A  
+ 
+5. MS Winword 2013:  Để chèn tiêuđề trang (đầu trang và chân trang), ta thực hiện 
+A. Insert - Header and Footer  
+B. View - Header and Footer  
+C. Home - Header and Footer  
+D. Review - Header and Footer  
+Answer: A  
+ 
+6. MS Winword 2013:  Để soạn thảo một công thức toán học, ta thường dùng  
+A. Insert - Word Art  
+B. Insert - Equation  
+C. Insert - Chart  
+D. Insert - Shapes  
+Answer: B  
+7. MS Winword 2013:  Mộtđối tượng sử dụng loại Wraps text nàođể văn bản lấpđầy các 
+khoảng trong xung quanh nó.  
+A. Spuare  
+B. Tight  
+C. Through  
+D. Top and Bottom  
+Answer: C  
+ 
+8. MS Winword 2013:  Đểđịnh dạng lại trang giấy in, ta thực hiện 
+A. File - Print  
+B. Page Layout - Page Setup  
+C. File - Page Setup  
+D. Page Layout - Print  
+Answer: B  
+ 
+9. MS Winword 2013:  Để chuyểnđổi giữa hai chếđộ gõ : chếđộ gõ chèn và chếđộ gõ 
+đè; ta bấm 
+A. Tab  
+B. Shift + Del  
+C. Insert  
+D. Shift + Insert  
+Answer: C  
+ 
+10. MS Winword 2013:  Trong Word, để tạo chỉ số trên (m2), bạn thực hiện gõ m2, bôi 
+đen chỉ số 2 rồi thực hiện tiếp tổ hợp phím nào sauđây?  
+A. Ctrl , Shift, =  
+B. Ctrl , =  
+C. Shift, =  
+D. Ctrl , Shift  
+Answer: A  
+ 
+11. MS Winword 2013:  Trong Word, để tạo chỉ số dưới (H2), bạn thực hiện gõ H2, bôi 
+đen chỉ số 2 rồi thực hiện tiếp tổ hợp phím nào sauđây?  
+A. Ctrl , Shift, =  
+B. Ctrl , =  
+C. Shift, =  
+D. Ctrl , Shift  
+Answer: B  
+ 
+12. MS Winword 2013:  Trong Word, khiđã bôiđen mộtđoạn văn bản in nhạt, muốn 
+đoạn văn bản nàyđậm lên, bạn dùng tổ hợp phím nào sauđây?  
+A. Ctrl + P  
+B. Ctrl + X  
+C. Ctrl + C  
+D. Ctrl + B  
+Answer: D  
+ 
+13. MS Winword 2013:  Trong Word, bạn có một Bảng (Table) gồm 3 cột, 5 dòng. Con trỏ 
+đangởô cuối cùng trên dòng số 5, muốn thêm một dòng  mớiở cuối bảng, bạn thực hiện 
+cách nào sauđây?  
+A. Tab  
+B. Kích chuột phải -> Insert  
+C. Kích chuột phải -> Insert Cells  
+D. Chọn  Insert Rows Below  
+Answer: A 
+ 
+14. MS Winword 2013:  Trong Wordđể dãn khoản cách giữa các dòng là 1,5 line, sau khi 
+bôiđen các dòng văn bản ta thực hiện cách nào sauđây?  
+A. Ctrl + Shift + 5 
+B. Paragraph/Line Spacing -> chọn 1,5 lines  
+C. Ctrl + Shift + F 5 
+D. Ctrl + Shift + F6  
+Answer: B 
+ 
+15. MS Winword 2013:  Trong Wordđể ngắt trang trong Word ta dùng tổ hợp phím nào 
+sauđây?  
+A. Alt + Enter  
+B. Alt + Shift  
+C. Shift + Enter  
+D. Ctrl + Enter  
+Answer: D  
+ 
+16. MS Winword 2013:  Trong Wordđể chọn toàn bộ mộtô bất kỳ trong bảng, ta thực 
+hiện theo cách nào sauđây?  
+A. Bôiđen phần văn bản trênôđó  
+B. Nhấnđúp chuột vàoôđó  
+C. Nhấn chuột vào phía trênôđó  
+D. Nhấn chuột vào góc dưới bên tráiôđó.  
+Answer: D  
+ 
+17. MS Winword 2013:  Trong Word, ta có thể tạo chữ in hoa bằng công cụ Drop Cap cho 
+trường hợp nào sauđây?  
+A. Chữ cáiđầu của mỗiđoạn trong văn bản 
+B. Một số chữ cáiđầu củađoạnđầu tiên trong văn bản 
+C. Chữ cáiđầu dòng trên Table  
+D. Chữ cáiđầuđoạn văn bảng trong Text box  
+Answer: A  
+ 
+18. MS Winword 2013:  Trong Word, File BangdiemSV dùng làm dữ liệuđể trộn thư in 
+bảngđiểm cá nhân cho sinh viên, File BangdiemSV không  thể dùngđượcở dạng nào sau 
+đây?  
+A. BangdiemSV .xls  
+B. BangdiemSV .txt  
+C. BangdiemSV .doc  
+D. BangdiemSV .pdf  
+Answer: D  
+ 
+19. MS Winword 2013:  Trong Word, khiđã bôiđen mộtđoạn văn bản, muốn tăng kích 
+cỡ của chữ bạn dùng tổ hợp phím nào sauđây?  
+A. Ctrl + ]  
+B. Ctrl + }  
+C. Ctrl + {  
+D. Ctrl + [  
+Answer: A  
+ 
+20. MS Winword 2013:  Trong Word, khiđã bôiđen mộtđoạn văn bản, muốn giảm kích 
+cỡ của chữ bạn dùng tổ hợp phím nào sauđây?  
+A. Ctrl + ]  
+B. Ctrl + }  
+C. Ctrl + {  
+D. Ctrl + [  
+Answer: D  
+ 
+21. MS Winword 2013:  Trong Word, mộtđoạn văn bản có chỉ mục nếu bạn muốn xuống 
+dòng mà không muốn dòngđó có chỉ mục thì bạn dùng tổ hợp phím nào sauđây?  
+A. Alt + Enter  
+B. Shift + Enter  
+C. Ctrl + Enter  
+D. Alt +  F4 
+Answer: B  
+ 
+22. MS Winword 2013:  Trong Word, khiđã bôiđen mộtđoạn văn bản gõ chữ thường, 
+muốnđịnhk dạng thành chữ IN HOA bạn dùng tổ hợp phím  nào sauđây?  
+A. Shift + F1  
+B. Shift + F2  
+C. Shift + F3  
+D. Shift + F4  
+Answer: C  
+ 
+23. MS Winword 2013:  Trong Word, khiđã bôiđen mộtđoạn văn bản gõ chữ IN HOA, 
+muốnđịnhk dạng thành chữ thường bạn dùng tổ hợp phím  nào sauđây?  
+A. Shift + F1  
+B. Shift + F2  
+C. Shift + F3  
+D. Shift + F4  
+Answer: C  
+ 
+24. MS Winword 2013:  Trong Word, bôiđen mộtđoạn văn bản rồi lần lượt thực hiện 
+thao tác : Nhấn tổ hợp phím Ctrl + B tiếpđến là Ctrl + I, cụm từđược bôiđen sẽ : 
+A. In nghiêng  
+B. Inđậm 
+C. Có gạch chân  
+D. Inđậm và nghiêng  
+Answer: D  
+ 
+25. MS Winword 2013:  Trong Word, đểđịnh dạng chữ cái lớnđầuđoạn văn bản ta thực 
+hiện: 
+A. Home/Drop Cap  
+B. Insert/Drop Cap  
+C. View/Drop Cap  
+D. Tool/Drop Cap  
+Answer: B  
+ 
+26. MS Winword 2013:  Trong Word, đểđịnh dạng canh biên trái, biên phải, định dạng 
+trang in ngang, dọc… ta thực hiện theo cách nào sauđây?:  
+A. Page Layout/Page Setup  
+B. File/Print  
+C. View/Print Layout  
+D. File/Options  
+Answer: A  
+ 
+27. MS Winword 2013:  Trong Word, để sửa lại nội dung một văn bảnđã có và lưu nó với 
+tên mớiđồng thời tập tin cũ vẫn giữ nguyên, ta thực hiện cách nào sauđây?:  
+A. File/Save As  
+B. File/Save  
+C. File/Page Setup  
+D. File/Save & Send  
+Answer: A  
+ 
+28. MS Winword 2013:  Trong Word, để di chuyểnđoạn văn bảnđãđược chọn, ta thực 
+hiện cặp thao tác nào sauđây?  
+A. Copy và Paste  
+B. Cut và Paste  
+C. Copy và Cut  
+D. Alt + M  
+Answer: B  
+ 
+29. MS Winword 2013:  Trong Word, để sao chepđoạn văn bảnđãđược chọn, ta thực 
+hiện cặp thao tác nào sauđây?  
+A. Copy và Paste  
+B. Cut và Paste  
+C. Copy và Cut  
+D. Edit\Options  
+Answer: A  
+ 
+30. MS Winword 2013:  Trong Word, công cụ Format Painter có chức năng gì?  
+A. Vẽ hình 
+B. Tô màu  
+C. Sao chépđịnh dạng 
+D. Cắt văn bản 
+Answer: C  
+ 
+1. MS Excel 2013: Tổ hợp phím nào cho phép ngay lập tứcđưa con trỏ vềôđầu tiên (ô 
+A1) của bảng tính  
+A. Ctrl+Home  
+B. Shift+Ctrl+Home  
+C. Alt + Home  
+D. Shift + Alt + Home  
+Answer: A  
+ 
+3. MS Excel 2013: Tạiô A2 có sẵn giá trị số không (0); Tạiô B2 gõ vào công thức =5/A2 
+thì nhậnđược kết quả 
+A. #N/A  
+B. #NAME?  
+C. #V ALUE!  
+D. #DIV/0!  
+Answer: D  
+ 
+4. MS Excel 2013: Điều kiện logic trong hàm IFđược phát biểu dưới dạng một phép so 
+sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào?  
+A. # 
+B. ><  
+C. <>  
+D. ~ 
+Answer: C  
+ 
+6. MS Excel 2013: Khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi? 
+A. #N/A  
+B. #NAME?  
+C. #V ALUE!  
+D. #DIV/0!  
+Answer: B  
+ 
+7. MS Excel 2013: Để tham chiếu dữ liệu từ bảng khác ta dùng hàm  
+A. Vlookup  
+B. Hlookup  
+C. Index  
+D. Cả 3 đềuđúng  
+Answer: D  
+ 
+8. MS Excel 2013: Khi dữ liệu cần tham chiếu nằm trên 1 hàngở bảng tham chiếu, ta 
+dùng hàm  
+A. Vlookup  
+B. Hlookup  
+C. Index  
+D. Cả 3 đềuđúng  
+Answer: A  
+ 
+9. MS Excel 2013: Khi dữ liệu cần tham chiếu nằm trên 1 cộtở bảng tham chiếu, ta dùng 
+hàm 
+A. Vlookup  
+B. Hlookup  
+C. Index  
+D. Cả 3 đềuđúng  
+Answer: B  
+ 
+11. MS Excel 2013: Khiđang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức 
+đưa con trỏ vềôđầu tiên (ô A1) của bảng tính ?  
+A. Shift+Home  
+B. Alt+Home  
+C. Ctrl+Home  
+D. Shift+Ctrl+Home  
+Answer: C  
+ 
+12. MS Excel 2013: Trong khi làm việc với Excel, để nhập vào công thức tính toán cho 
+mộtô, trước hết ta phải gõ: 
+A. Dấu chấm hỏi (?) 
+B. Dấu bằng (= )  
+C. Dấu hai chấm (: )  
+D. Dấuđô la ($)  
+Answer: B  
+ 
+13. MS Excel 2013: Trong bảng tính Exce, nếu trong mộtô tính có các kí hiệu #####, 
+điềuđó có nghĩa là gì?  
+A. Chương trình bảng tính bị nhiễm virus  
+B. Công thức nhập sai và Excel thông báo lỗi 
+C. Hàng chứaôđó cóđộ cao quá thấp nên không hiển thị hết chữ số 
+D. Cột chứaôđó cóđộ rộng quá hẹp nên không hiển thị hết chữ số 
+Answer: D  
+ 
+15. MS Excel 2013: Câu nào sauđây sai? Khi nhập dữ liệu vào bảng tính Excel thì:  
+A. Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái 
+B. Dữ liệu kiểu kí tự sẽ mặc nhiên căn thẳng lề trái 
+C. Dữ liệu kiểu thời gian sẽ mặc nhiên căn thẳng lề phải 
+D. Dữ liệu kiểu ngày tháng sẽ mặc nhiên căn thẳng lề phải 
+Answer: A  
+ 
+23. MS Excel 2013: Trong bảng tính Excel, để sửa dữ liệu trong mộtô tính mà không cần 
+nhập lại, ta thực hiện: 
+A. Nháy chuột chọnô tính cần sửa, rồi bấm phím F2  
+B. Nháy chuột chọnô tính cần sửa, rồi bấm phím F4  
+C. Nháy chuột chọnô tính cần sửa, rồi bấm phím F10  
+D. Nháy chuột chọnô tính cần sửa, rồi bấm phím F12  
+Answer: A  
+ 
+27. MS Excel 2013: Trong bảng tính Excel, để lọc dữ liệu tựđộng, sau khi chọn khối cần 
+lọc, ta thực hiện: 
+A. Format - Filter - AutoFilter  
+B. Insert - Filter - AutoFilter  
+C. Data - Filter - AutoFilter  
+D. View - Filter - AutoFilter  
+Answer: C  
+ 
+28. MS Excel 2013: Khiđang làm việc với Excel, có thể di chuyển từ sheet này sang 
+sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:  
+A. Page Up ; Page Down  
+B. Ctrl - Page Up ; Ctrl - Page Down  
+C. Ctrl - Page - A 
+D. Shift - Page - F 
+Answer: B  
+ 
+29. MS Excel 2013: Trong Excel, để xuống dòng trong mộtô, ta sử dụng tổ hợp phím:  
+A. Alt + Enter  
+B. Spacebar + Enter  
+C. Shift + Enter  
+D. Ctrl + Enter  
+Answer: A  
+ 
+30. MS Excel 2013: Cácđịa chỉ sauđây làđịa chỉ gì: $A1, B$5, C6, $L9, $DS7  
+A. Địa chỉ tươngđối 
+B. Địa chỉ tuyệtđối 
+C. Địa chỉ hỗn hợp 
+D. Địa chỉ mặtđịnh 
+Answer: A  
+ 
+31. MS Excel 2013: Khi gõ công thức xong, rồi Enter, máy hiện ra #N/A có nghĩa là :  
+A. Không tìm thấy tên hàm  
+B. Giá trị tham chiếu không tồn tại 
+C. Không tham chiếuđếnđược 
+D. Tập hợp rỗng 
+Answer: D  
+ 
+32. MS Excel 2013: Khi gõ công thức xong, rồi Enter, máy hiện ra #REF! có nghĩa là :  
+A. Không tìm thấy tên hàm  
+B. Giá trị tham chiếu không tồn tại 
+C. Không tham chiếuđếnđược 
+D. Tập hợp rỗng. 
+Answer: B  
+ 
+36. MS Excel 2013: Trong MS Excel, hàm nào dùngđểđếm cácô rỗng trong 1 danh 
+sách:  
+A. COUNTIF  
+B. COUNT  
+C. COUNTBLANK  
+D. COUNTA  
+Answer: C  
+ 
+38. MS Excel 2013: Trong MS Excel, hàm tính tổng có nhiềuđiều kiện là hàm:  
+A. SUMIFS  
+B. SUMIF  
+C. DSUM  
+D. SUM  
+Answer: A  
+ 
+39. MS Excel 2013: Trong MS Excel, hàmđếm có nhiềuđiều kiện là hàm:  
+A. COUNTIF  
+B. COUNTIFS  
+C. DCOUNT  
+D. COUNTA  
+Answer: B  
+ 
+56. MS Excel 2013: Trong bảng tính Excel, hàm nào sauđây cho phép tính tổng các giá 
+trị kiểu số thỏa mãn mộtđiều kiện cho trước? 
+A. SUM  
+B. COUNTIF  
+C. COUNT  
+D. SUMIF  
+Answer: D  
+ 
+57. MS Excel 2013: Trong bảng tính Excel, để chèn thêm một cột vào trang tí nh, ta thực 
+hiện: 
+A. Table - Insert Columns.  
+B. Format - Cells - Insert Columns.  
+C. Table - Insert Cells.  
+D. Insert - Columns.  
+Answer: A  
+ 
+58. MS Excel 2013: Khiđang làm việc với Excel, có thể di chuyển từ sheet này sang 
+sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:  
+A. Page Up;  
+B. Ctrl -Page Up ; Ctrl - Page Down.  
+C. Page Down.  
+D. Print Page Down.  
+Answer: B  
+ 
+59. MS Excel 2013: Để thiết lập chếđộ lưu tựđộng trên Excel dự phòng khi có sự cố xảy 
+ra, ta cần? 
+A. Vào Tool/Options, chọn thẻ Save, tích vàoô Save AutoRecover info every, sauđóđiền 
+số phút tựđộng lưu.  
+B. Vào File/Saveđể lưu. 
+C. Vào File/Saveđể lưu. 
+D. Nhấn tổ hợp phím Ctrl + S.  
+Answer: A  
+ 
+60. MS Excel 2013: Để khởiđộng Excel ta chọn 
+A. Nhấpđúp trỏ chuột lên biểu tượng lối tắt của Excel  
+B. Nhấp chọn Program  
+C. Từ màn hình Dos, gõ Excel  
+D. Nhấn chọn Start  
+Answer: A  
+ 
+61. MS Excel 2013: Để thoát khỏi Excel ta chọn 
+A. Nhấn tổ hợp phím Ctrl + F4.  
+B. Chọn Edit \Close  
+C. Nhấn tổ hợp phím Alt + F4  
+D. Nhấn tổ hợp phím Alt + F5  
+Answer: C  
+ 
+62. MS Excel 2013: Trong Excel muốn bật tắt thanh công cụ ta chọn 
+A. Chọn Tool, Option, General  
+B. Chọn View, Formular Bar  
+C. Chọn View, Toolbars, đánh dấu chọn hoặc không chọn các thanh công cụ 
+D. Nhấn tổ hợp phím Ctrl + T.  
+Answer: C  
+ 
+63. MS Excel 2013: Muốn xóa sheet, ta chọn sheetđó rồi 
+A. Chọn Edit, Delete sheet  
+B. Nhấn tổ hợp phím Alt + E, L  
+C. Nhấp chuột phải trên tên sheetđể mở menu tắt rồi chọn Delete  
+D. Nhấn tổ hợp phím Ctrl + D.  
+Answer: D  
+ 
+64. MS Excel 2013: Trong Excelđể mở tập tin có trongđĩa ta dùng  
+A. Chọn File  
+B. Tổ hợp phím Ctrl + N  
+C. Tổ hợp phím Ctrl + O  
+D. Chọn Open  
+Answer: C  
+ 
+65. MS Excel 2013: Trong Excelđể lưu một tập tin vàođĩa ta dùng  
+A. Tổ hợp phím Ctrl + S  
+B. Tổ hợp phím Alt + S  
+C. Tổ hợp phí m Alt + Shift + S  
+D. Cả ba câu trênđều sai.  
+Answer: A  
+ 
+66. MS Excel 2013: Nhấn phím F12 làđể 
+A. Thực hiện lệnh Open  
+B. Thực hiện lệnh Save As  
+C. Thực hiện lệnh Close  
+D. Thực hiện lệnh Print  
+Answer: B  
+ 
+67. MS Excel 2013: Trong Excelđểđóng một tập tin ta dùng  
+A. Tổ hộp phím Alt + F  
+B. Chọn Tab Close  
+C. Tổ hợp phím Ctrl + W  
+D. Nhấn Alt + F7  
+Answer: C  
+ 
+68. MS Excel 2013: Theo 7 định ký tự dạng chuỗiđược 
+A. Canh phải trongô  
+B. Canh trái trongô  
+C. Canhđều hai bên  
+D. Canh giữa trongô  
+Answer: B  
+ 
+69. MS Excel 2013: Theo mặtđịnh ký tự dạng sốđược 
+A. Canh phải trongô  
+B. Canh trái trongô  
+C. Canhđều hai bên  
+D. Canh giữa trongô  
+Answer: A  
+ 
+70. MS Excel 2013: Chèn dấu (‘) trước khi nhập liệu vàoô làđể 
+A. Canh chỉnh dữ liệu trongô bên trái  
+B. Canh chỉnh dữ liệu trongô bên phải 
+C. Canh giữa dữ liệu trongô  
+D. Canhđều hai bên dữ liệu trongô  
+Answer: A  
+ 
+73. MS Excel 2013: Để chọn toàn bộ bảng tính ta  
+A. Nhấn tổ hợp phím Ctrl + A  
+B. Nhấn tổ hợp phím Ctrl + Shift + A  
+C. Nhấn tổ hợp phím Shift + A  
+D. Nhấn tổ hợp phím Shift + F2  
+Answer: A  
+ 
+74. MS Excel 2013: Trong Excel, để chèn hàng vào một bảng tính ta di chuyểnđếnô 
+hiện hànhđến vị trí hàng cần thêm rồi 
+A. Chọn Format, Cells  
+B. Chọn Format, Column  
+C. Chọn Insert, Row  
+D. Chọn Insert, Columns  
+Answer: C  
+ 
+75. MS Excel 2013: Để xóa dữ liệu trong mộtô hoặc khốiô trong bảng tính Excel ta 
+chọn 
+A. Chọnô (hoặc khốiô) cần xóa, rồi nhấn phím Delete  
+B. Không cần chọnô (hoặc khốiô), chỉ cần nhấn phím Delete  
+C. Chọnô (hoặc khốiô) cần xóa, rồi nhấn phím Insert  
+D. Chọnô (hoặc khốiô) cần xóa, rồi nhấn phím bất kỳ 
+Answer: A  
+ 
+76. MS Excel 2013: Trong Excelđể sắp xếp cơ sở dữ liệu ta chọn 
+A. Tool, Sort.  
+B. Format, Sort  
+C. Table, Sort.  
+D. Data, Sort.  
+Answer: D  
+ 
+77. MS Excel 2013: Các hàm sauđây hàm nào dùngđểđiếm giá trị 
+A. Sum  
+B. Rank  
+C. Count  
+D. Int  
+Answer: C  
+ 
+84. MS Excel 2013: Khiđang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức 
+đưa con trỏ vềôđầu tiên (ô A1) của bảng tính ?  
+A. Shift+Home  
+B. Alt+Home  
+C. Ctrl+Home  
+D. Ctrl + Shift + S.  
+Answer: C  
+ 
+85. MS Excel 2013: Để sửa dữ liệu trong mộtô tính mà không cần nhập lại, ta thực hiện 
+A. Nháy chuột chọnô tính cần sửa, rồi bấm phím F2  
+B. Nháy chuột chọnô tính cần sửa, rồi bấm phím F3  
+C. Nháy chuột chọnô tính cần sửa, rồi bấm phím F4  
+D. Nháy chuột chọnô tính cần sửa, rồi bấm phím F5  
+Answer: A  
+ 
+105. MS Excel 2013: Để xuống dòng trên cùng mộtÔ trong Excel, ta nhấn tổ hợp phím 
+nào?  
+A. Alt + Enter  
+B. Shift + Enter  
+C. Ctrl + Enter  
+D. Alt + Shift  
+Answer: A  
+ 
+144. MS Excel 2013: Nếu chưađịnh dạng, số 5 sẽ nằm bên nào củaô 
+A. Phải 
+B. Trái  
+C. Giữa 
+D. Phụ thuộc vàođịnh dạng 
+Answer: A  
+ 
+145. MS Excel 2013: Nếu chưađịnh dạng, số 5.5 sẽ nằm bên nào củaô 
+A. Phải 
+B. Trái  
+C. Giữa 
+D. Phụ thuộc vàođịnh dạng 
+Answer: A  
+ 
+146. MS Excel 2013: Nếu chưađịnh dạng chữ "hello" sẽ nằm bên nào củaô 
+A. Trái  
+B. Phải 
+C. Giữa 
+D. Phụ thuộc vàođịnh dạng 
+Answer: A  
+ 
+147. MS Excel 2013: Nếu chưađịnh dạng, chữ "2017 hello" sẽ nằm bên nào củaô 
+A. Trái  
+B. Phải 
+C. Giữa 
+D. Phụ thuộc vàođịnh dạng 
+Answer: A  
+ 
+1. MS Excel 2013: Tổ hợp phím nào cho phép ngay lập tứcđưa con trỏ vềôđầu tiên (ô 
+A1) của bảng tính  
+A. Ctrl+Home  
+B. Shift+Ctrl+Home  
+C. Alt + Home  
+D. Shift + Alt + Home  
+Answer: A  
+ 
+3. MS Excel 2013: Tạiô A2 có sẵn giá trị số không (0); Tạiô B2 gõ vào công thức =5/A2 
+thì nhậnđược kết quả 
+A. #N/A  
+B. #NAME?  
+C. #V ALUE!  
+D. #DIV/0!  
+Answer: D  
+ 
+4. MS Excel 2013: Điều kiện logic trong hàm IFđược phát biểu dưới dạng một phép so 
+sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào?  
+A. # 
+B. ><  
+C. <>  
+D. ~ 
+Answer: C  
+ 
+6. MS Excel 2013: Khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi? 
+A. #N/A  
+B. #NAME?  
+C. #V ALUE!  
+D. #DIV/0!  
+Answer: B  
+ 
+7. MS Excel 2013: Để tham chiếu dữ liệu từ bảng khác ta dùng hàm  
+A. Vlookup  
+B. Hlookup  
+C. Index  
+D. Cả 3 đềuđúng  
+Answer: D  
+ 
+8. MS Excel 2013: Khi dữ liệu cần tham chiếu nằm trên 1 hàngở bảng tham chiếu, ta 
+dùng hàm  
+A. Vlookup  
+B. Hlookup  
+C. Index  
+D. Cả 3 đềuđúng  
+Answer: A  
+ 
+9. MS Excel 2013: Khi dữ liệu cần tham chiếu nằm trên 1 cộtở bảng tham chiếu, ta dùng 
+hàm 
+A. Vlookup  
+B. Hlookup  
+C. Index  
+D. Cả 3 đềuđúng  
+Answer: B  
+ 
+11. MS Excel 2013: Khiđang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức 
+đưa con trỏ vềôđầu tiên (ô A1) của bảng tính ?  
+A. Shift+Home  
+B. Alt+Home  
+C. Ctrl+Home  
+D. Shift+Ctrl+Home  
+Answer: C  
+ 
+12. MS Excel 2013: Trong khi làm việc với Excel, để nhập vào công thức tính toán cho 
+mộtô, trước hết ta phải gõ: 
+A. Dấu chấm hỏi (?) 
+B. Dấu bằng (= )  
+C. Dấu hai chấm (: )  
+D. Dấuđô la ($)  
+Answer: B  
+ 
+13. MS Excel 2013: Trong bảng tính Exce, nếu trong mộtô tính có các kí hiệu #####, 
+điềuđó có nghĩa là gì?  
+A. Chương trình bảng tính bị nhiễm virus  
+B. Công thức nhập sai và Excel thông báo lỗi 
+C. Hàng chứaôđó cóđộ cao quá thấp nên không hiển thị hết chữ số 
+D. Cột chứaôđó  cóđộ rộng quá hẹp nên không hiển thị hết chữ số 
+Answer: D  
+ 
+15. MS Excel 2013: Câu nào sauđây sai? Khi nhập dữ liệu vào bảng tính Excel thì:  
+A. Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái 
+B. Dữ liệu kiểu kí tự sẽ mặc nhiên căn thẳng lề trái 
+C. Dữ liệu kiểu thời gian sẽ mặc nhiên căn thẳng lề phải 
+D. Dữ liệu kiểu ngày tháng sẽ mặc nhiên căn thẳng lề phải 
+Answer: A  
+ 
+23. MS Excel 2013: Trong bảng tính Excel, để sửa dữ liệu trong mộtô tính mà không cần 
+nhập lại, ta thực hiện: 
+A. Nháy chuột chọnô tính cần sửa, rồi bấm phím F2  
+B. Nháy chuột chọnô tính cần sửa, rồi bấm phím F4  
+C. Nháy chuột chọnô tính cần sửa, rồi bấm phím F10  
+D. Nháy chuột chọnô tính cần sửa, rồi bấm phím F12  
+Answer: A  
+ 
+27. MS Excel 2013: Trong bảng tính Excel, để lọc dữ liệu tựđộng, sau khi chọn khối cần 
+lọc, ta thực hiện: 
+A. Format - Filter - AutoFilter  
+B. Insert - Filter - AutoFilter  
+C. Data - Filter - AutoFilter  
+D. View - Filter - AutoFilter  
+Answer: C  
+ 
+28. MS Excel 2013: Khiđang làm việc với Excel, có thể di chuyển từ sheet này sang 
+sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:  
+A. Page Up ; Page Down  
+B. Ctrl - Page Up ; Ctrl - Page Down  
+C. Ctrl - Page - A 
+D. Shift - Page - F 
+Answer: B  
+ 
+29. MS Excel 2013: Trong Excel, để xuống dòng trong mộtô, ta sử dụng tổ hợp phím:  
+A. Alt + Enter  
+B. Spacebar + Enter  
+C. Shift + Enter  
+D. Ctrl + Enter  
+Answer: A  
+ 
+30. MS Excel 2013: Cácđịa chỉ sauđây làđịa chỉ gì: $A1, B$5, C6, $L9, $DS7  
+A. Địa chỉ tươngđối 
+B. Địa chỉ tuyệtđối 
+C. Địa chỉ hỗn hợp 
+D. Địa chỉ mặtđịnh 
+Answer: A  
+ 
+31. MS Excel 2013: Khi gõ công thức xong, rồi Enter, máy hiện ra #N/A có nghĩa là :  
+A. Không tìm thấy tên hàm  
+B. Giá trị tham chiếu không tồn tại 
+C. Không tham chiếuđếnđược 
+D. Tập hợp rỗng 
+Answer: D  
+ 
+32. MS Excel 2013: Khi gõ công thức xong, rồi Enter, máy hiện ra #REF! có nghĩa là :  
+A. Không tìm thấy tên hàm  
+B. Giá trị tham chiếu không tồn tại 
+C. Không tham chiếuđếnđược 
+D. Tập hợp rỗng. 
+Answer: B  
+ 
+36. MS Excel 2013: Trong MS Excel, hàm nào dùngđểđếm cácô rỗng trong 1 danh 
+sách:  
+A. COUNTIF  
+B. COUNT  
+C. COUNTBLANK  
+D. COUNTA  
+Answer: C  
+ 
+38. MS Excel 2013: Trong MS Excel, hàm tính tổng có nhiềuđiều kiện là hàm:  
+A. SUMIFS  
+B. SUMIF  
+C. DSUM  
+D. SUM  
+Answer: A  
+ 
+39. MS Excel 2013: Trong MS Excel, hàmđếm có nhiềuđiều kiện là hàm:  
+A. COUNTIF  
+B. COUNTIFS  
+C. DCOUNT  
+D. COUNTA  
+Answer: B  
+ 
+56. MS Excel 2013: Trong bảng tính Excel, hàm nào sauđây cho phép tính tổng các giá 
+trị kiểu số thỏa mãn mộtđiều kiện cho trước? 
+A. SUM  
+B. COUNTIF  
+C. COUNT  
+D. SUMIF  
+Answer: D  
+ 
+57. MS Excel 2013: Trong bảng tính Excel, để chèn thêm một cột vào trang tính, ta thực 
+hiện: 
+A. Table - Insert Columns.  
+B. Format - Cells - Insert Columns.  
+C. Table - Insert Cells.  
+D. Insert - Columns.  
+Answer: A  
+ 
+58. MS Excel 2013: Khiđang làm việc với Excel, có thể di chuyển từ sheet này sang 
+sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:  
+A. Page Up;  
+B. Ctrl -Page Up ; Ctrl - Page Down.  
+C. Page Down.  
+D. Print Page Down.  
+Answer: B  
+ 
+59. MS Excel 2013: Để thiết lập chếđộ lưu tựđộng trên Excel dự phòng khi có sự cố xảy 
+ra, ta cần? 
+A. Vào Tool/Options, chọn thẻ Save, tích vàoô Save AutoRecover info every, sauđóđiền 
+số phút tựđộng lưu.  
+B. Vào File/Saveđể lưu. 
+C. Vào File/Saveđể lưu. 
+D. Nhấn tổ hợp phím Ctrl + S.  
+Answer: A  
+ 
+60. MS Excel 2013: Để khởiđộng Excel ta chọn 
+A. Nhấpđúp trỏ chuột lên biểu tượng lối tắt của Excel  
+B. Nhấp chọn Program  
+C. Từ màn hình Dos, gõ Excel  
+D. Nhấn chọn Start  
+Answer: A  
+ 
+61. MS Excel 2013: Để thoát khỏi Excel ta chọn 
+A. Nhấn tổ hợp phím Ctrl + F4.  
+B. Chọn Edit \Close  
+C. Nhấn tổ hợp phím Alt + F4  
+D. Nhấn tổ hợp phím Alt + F5  
+Answer: C  
+ 
+62. MS Excel 2013: Trong Excel muốn bật tắt thanh công cụ ta chọn 
+A. Chọn Tool, Option, General  
+B. Chọn View, Formular Bar  
+C. Chọn View, Toolbars, đánh dấu chọn hoặc không chọn các thanh công cụ 
+D. Nhấn tổ hợp phím Ctrl + T.  
+Answer: C  
+ 
+63. MS Excel 2013: Muốn xóa sheet, ta chọn sheetđó rồi 
+A. Chọn Edit, Delete sheet  
+B. Nhấn tổ hợp phím Alt + E, L  
+C. Nhấp chuột phải trên tên sheetđể mở menu tắt rồi chọn Delete  
+D. Nhấn tổ hợp phím Ctrl + D.  
+Answer: D  
+ 
+64. MS Excel 2013: Trong Excelđể mở tập tin có trongđĩa ta dùng  
+A. Chọn File  
+B. Tổ hợp phím Ctrl + N  
+C. Tổ hợp phím Ctrl + O  
+D. Chọn Open  
+Answer: C  
+ 
+65. MS Excel 2013: Trong Excelđể lưu một tập tin vàođĩa ta dùng  
+A. Tổ hợp phím Ctrl + S  
+B. Tổ hợp phím Alt + S  
+C. Tổ hợp phí m Alt + Shift + S  
+D. Cả ba câu trênđều sai.  
+Answer: A  
+ 
+66. MS Excel 2013: Nhấn phím F12 làđể 
+A. Thực hiện lệnh Open  
+B. Thực hiện lệnh Save As  
+C. Thực hiện lệnh Close  
+D. Thực hiện lệnh Print  
+Answer: B  
+ 
+67. MS Excel 2013: Trong Excelđểđóng một tập tin ta dùng  
+A. Tổ hộp phím Alt + F  
+B. Chọn Tab Close  
+C. Tổ hợp phím Ctrl + W  
+D. Nhấn Alt + F7  
+Answer: C  
+ 
+68. MS Excel 2013: Theo 7 định ký tự dạng chuỗiđược 
+A. Canh phải trongô  
+B. Canh trái trongô  
+C. Canhđều hai bên  
+D. Canh giữa trongô  
+Answer: B  
+ 
+69. MS Excel 2013: Theo mặtđịnh ký tự dạng sốđược 
+A. Canh phải trongô  
+B. Canh trái trongô  
+C. Canhđều hai bên  
+D. Canh giữa trongô  
+Answer: A  
+ 
+70. MS Excel 2013: Chèn dấu (‘) trước khi nhập liệu vàoô làđể 
+A. Canh chỉnh dữ liệu trongô bên trái  
+B. Canh chỉnh dữ liệu trongô bên phải 
+C. Canh giữa dữ liệu trongô  
+D. Canhđều hai bên dữ liệu trongô  
+Answer: A  
+ 
+73. MS Excel 2013: Để chọn toàn bộ bảng tính ta  
+A. Nhấn tổ hợp phím Ctrl + A  
+B. Nhấn tổ hợp phím Ctrl + Shift + A  
+C. Nhấn tổ hợp phím Shift + A  
+D. Nhấn tổ hợp phím Shift + F2  
+Answer: A  
+ 
+74. MS Excel 2013: Trong Excel, để chèn hàng vào một bảng tính ta di chuyểnđếnô 
+hiện hànhđến vị trí hàng cần thêm rồi 
+A. Chọn Format, Cells  
+B. Chọn Format, Column  
+C. Chọn Insert, Row  
+D. Chọn Insert, Columns  
+Answer: C  
+ 
+75. MS Excel 2013: Để xóa dữ liệu trong mộtô hoặc khốiô trong bảng tính Excel ta 
+chọn 
+A. Chọnô (hoặc khốiô) cần xóa, rồi nhấn phím Delete  
+B. Không cần chọnô (hoặc khốiô), chỉ cần nhấn phím Delete  
+C. Chọnô (hoặc khốiô) cần xóa, rồi nhấn phím Insert  
+D. Chọnô (hoặc khốiô) cần xóa, rồi nhấn phím bất kỳ 
+Answer: A  
+ 
+76. MS Excel 2013: Trong Excelđể sắp xếp cơ sở dữ liệu ta chọn 
+A. Tool, Sort.  
+B. Format, Sort  
+C. Table, Sort.  
+D. Data, Sort.  
+Answer: D  
+ 
+77. MS Excel 2013: Các hàm sauđây hàm nào dùngđểđiếm giá trị 
+A. Sum  
+B. Rank  
+C. Count  
+D. Int  
+Answer: C  
+ 
+84. MS Excel 2013: Khiđang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức 
+đưa con trỏ vềôđầu tiên (ô A1) của bảng tính ?  
+A. Shift+Home  
+B. Alt+Home  
+C. Ctrl+Home  
+D. Ctrl + Shift + S.  
+Answer: C  
+ 
+85. MS Excel 2013: Để sửa dữ liệu trong mộtô tính mà không cần nhập lại, ta thực hiện 
+A. Nháy chuột chọnô tính cần sửa, rồi bấm phím F2  
+B. Nháy chuột chọnô tính cần sửa, rồi bấm phím F3  
+C. Nháy chuột chọnô tính cần sửa, rồi bấm phím F4  
+D. Nháy chuột chọnô tính cần sửa, rồi bấm phím F5  
+Answer: A  
+ 
+105. MS Excel 2013: Để xuống dòng trên cùng mộtÔ trong Excel, ta nhấn tổ hợp phím 
+nào?  
+A. Alt + Enter  
+B. Shift + Enter  
+C. Ctrl + Enter  
+D. Alt + Shift  
+Answer: A  
+ 
+144. MS Excel 2013: Nếu chưađịnh dạng, số 5 sẽ nằm bên nào củaô 
+A. Phải 
+B. Trái  
+C. Giữa 
+D. Phụ thuộc vàođịnh dạng 
+Answer: A  
+ 
+145. MS Excel 2013: Nếu chưađịnh dạng, số 5.5 sẽ nằm bên nào củaô 
+A. Phải 
+B. Trái  
+C. Giữa 
+D. Phụ thuộc vàođịnh dạng 
+Answer: A  
+ 
+146. MS Excel 2013: Nếu chưađịnh dạng chữ "hello" sẽ nằm bên nào củaô 
+A. Trái  
+B. Phải 
+C. Giữa 
+D. Phụ thuộc vàođịnh dạng 
+Answer: A  
+ 
+147. MS Excel 2013: Nếu chưađịnh dạng, chữ "2017 hello" sẽ nằm bên nào củaô 
+A. Trái  
+B. Phải 
+C. Giữa 
+D. Phụ thuộc vàođịnh dạng 
+Answer: A  
+ 
+1. MS Powerpoint 2013:  Muốn trình diễn tài liệuđược soạn thảo, ta thực hiện 
+A. File - View Show  
+B. Window - View Show  
+C. Slide Show - View Show  
+D. Tools - View Show  
+Answer: C  
+ 
+2. MS Powerpoint 2013:  Để thêm một Slide mới vào, ta thực hiện: 
+A. Home - New Slide  
+B. Design - New Slide  
+C. Slide Show - New Slide  
+D. Insert - New Slide  
+Answer: D  
+ 
+3. MS Powerpoint 2013:  Để thayđổi thiết kế của Slide, ta thực hiện 
+A. Home - Themes  
+B. Design - Themes  
+C. Slide Show - Themes  
+D. Insert - Themes  
+Answer: B  
+ 
+4. MS Powerpoint 2013:  Để thiết lập hiệuứng chođối tượng trong 1 slide, ta thực hiện: 
+A. Transition - chọn hiệuứng 
+B. Design - chọn hiệuứng 
+C. Slide Show - chọn hiệuứng 
+D. Animations - chọn hiệuứng 
+Answer: D  
+ 
+5. MS Powerpoint 2013:  Mộtđối tượng trong 1 slide có thể thiết lập bao nhiêu hiệuứng 
+A. 1 
+B. Nhiều 
+C. 3 
+D. 2 
+Answer: B  
+ 
+6. MS Powerpoint 2013:  Muốn xóa bỏ hiệuứng trình diễn, ta chọnđối tượng cần xóa bỏ 
+hiệuứng và thực hiện 
+A. Animations, rồi chọn delete  
+B. Animations - Animation Pane, rồi chọn Remove  
+C. Animation Pane, rồi chọn delete  
+D. Animation Pane, rồi chọn Remove  
+Answer: B  
+ 
+7. MS Powerpoint 2013:  Để chạy Slide ta cần chọn 
+A. Bấm F5  
+B. view/ slide show  
+C. cả haiđềuđúng  
+D. Cả haiđều sai 
+Answer: C  
+ 
+8. MS Powerpoint 2013:  Để tạo hiệuứng chuyển tiếp giữa các slide ta vào slide show 
+chọn 
+A. Slide transition  
+B. View show  
+C. Custom animation  
+D. Slide Master  
+Answer: A  
+ 
+9. MS Powerpoint 2013:  Để tạo slide mới 
+A. Nhấn Ctrl  + N 
+B. Nhấn F5 
+C. Slide Master  
+D. Nhấn Ctrl + S  
+Answer: A  
+ 
+10. MS Powerpoint 2013:  Để lưu các slide ta phải 
+A. Nhấn Ctrl  + S 
+B. file / save  
+C. cả haiđúng  
+D. cả hai sai  
+Answer: C  
+ 
+11. MS Powerpoint 2013:  Số lượng các slide của 1 bài  
+A. Tùyý  
+B. Từ 1 đến 3 Slide  
+C. Từ 3 Slide trở lên 
+D. Số Slide khôngđược vượt quá 100  
+Answer: A  
+ 
+12. MS Powerpoint 2013:  Tạo hiệuứng hoạt hình cho slide ta vào slide show chọn 
+A. custom animation  
+B. preset animation  
+C. custom show  
+D. cả 3 đều sai  
+Answer: A  
+ 
+13. MS Powerpoint 2013:  chọn kiểu slide  
+A. format / slide layout  
+B. common tasks/ slide layout  
+C. cả haiđúng  
+D. cả hai sai  
+Answer: C  
+ 
+14. MS Powerpoint 2013:  Để sử dụng màu nền có sẵn từ các mẫu cho các slide ta vào  
+format chọn 
+A. apply design template  
+B. background  
+C. cả haiđúng  
+D. cả hai sai  
+Answer: A  
+ 
+15. MS Powerpoint 2013:  Để thực thi các slide :  
+A. F5  
+B. Slide show  
+C. Ctrl + F5  
+D. Alt + F5  
+Answer: A 
+ 
+16. MS Powerpoint 2013:  Để tạo màu nền cho slide  
+A. Format / background  
+B. Format / font  
+C. Font/Colors  
+D. Edit/Colors  
+Answer: A  
+ 
+17. MS Powerpoint 2013:  Trong trình soạn thảo trình chiếu MS Powerpoint, mục Design 
+cho phép bạn: 
+A. Chèn vàđịnh dạng Picture cho trang trình chiếu. 
+B. Chèn vàđịnh dạng Shape cho trang trình chiếu. 
+C. Thiết kế vàđịnh dạng Theme, Background, Style cho trang trình chiếu. 
+D. Thêm vàđịnh dạng Hiệuứng củađối tượng trang trình chiếu. 
+Answer: C  
+ 
+18. MS Powerpoint 2013:  Trong trình soạn thảo trình chiếu MS Powerpoint, mục 
+Transitions cho phép bạn: 
+A. Thêm vàđịnh dạng Hiệuứng lật trang cho trang trình chiếu. 
+B. Chèn vàđịnh dạng Shape cho trang trình chiếu. 
+C. Thiết kế vàđịnh dạng Theme, Background, Style cho trang trình chiếu 
+D. Thêm vàđịnh dạng Hiệuứng cácđối tượng trang trình chiếu 
+Answer: A  
+ 
+19. MS Powerpoint 2013:  Thêm vàđịnh dạng Hiệuứng cácđối tượng trang trình chiếu 
+A. Chèn vàđịnh dạng Picture cho trang trình chiếu. 
+B. Thiết kế vàđịnh dạng Theme, Background, Style cho trang trình chiếu. 
+C. Thêm vàđịnh dạng Hiệuứng lật trang cho trang trình chiếu. 
+D. Thêm vàđịnh dạng Hiệuứng cácđối tượng trang trình chiếu. 
+Answer: D  
+ 
+20. MS Powerpoint 2013:  Trong trình soạn thảo trình chiếu MS Powerpoint, với mỗiđối 
+tượng bạn có thể thêm bao nhiêu Hiệuứng chođối tượngđó ? 
+A. Một 
+B. Hai  
+C. Ba  
+D. Rất nhiều. 
+Answer: D  
+ 
+21. MS Powerpoint 2013:  Trong bảng quản lý các Hiệuứng (Animation Pane), bạn có 
+thể: 
+A. Thayđổi thứ tự xuất hiện cho các hiệuứng. 
+B. Thiết lập hiệuứng. 
+C. Copy hiệuứng. 
+D. Copy hiệuứng cho Slide . 
+Answer: A 
+ 
+22. MS Powerpoint 2013:  Chuyên mục nào sauđây không nằm trong phần hiệuứng 
+Animations của soạn thảo trình chiếu MS Powerpoint ?  
+A. Xuất hiện (Entrance)  
+B. Nội dungđộng (Dynamic Content)  
+C. Làm nổi bật (Emphasis)  
+D. Biến mất (Exit)  
+Answer: B  
+ 
+23. MS Powerpoint 2013:  Trong trình soạn thảo trình chiếu MS Powerpoint, để bắtđầu 
+chạy trình chiếu thì bạn bấm: 
+A. F5  
+B. Shift + F5  
+C. F12  
+D. F7  
+Answer: A  
+ 
+24. MS Powerpoint 2013:  Trong trình soạn thảo trình chiếu MS Powerpoint, để bắtđầu 
+chạy trình chiếu từ Slideđang chọn thì bạn bấm: 
+A. F5  
+B. Shift + F5  
+C. Ctrl + N  
+D. Ctrl + M  
+Answer: B  
+ 
+25. MS Powerpoint 2013:  Trong trình soạn thảo trình chiếu MS Powerpoint, để Copy 
+Slideđang chọn xuống ngay phía dưới slideđó thì bạn bấm: 
+A. Ctrl + W  
+B. Ctrl + M  
+C. Ctrl + D  
+D. Ctrl + S  
+Answer: C  
+ 
+26. MS Powerpoint 2013:  Trong trình soạn thảo trình chiếu MS Powerpoint, để thoát 
+khỏi chếđộ trình chiếu slide thì bạn bấm: 
+A. F5  
+B. Shift + F5  
+C. Esc  
+D. F12  
+Answer: C  
+ 
+27. MS Powerpoint 2013:  Sau khiđã thiết kế xong bài trình diễn, cách làm nào sauđây 
+không phảiđể trình chiếu ngay bài trình diễnđó?  
+A. Chọn Slide Show -> Custom Show  
+B. Chọn Slide Show -> View Show  
+C. Chọn View -> Slide Show  
+D. Nhấn phím F5  
+Answer: A  
+ 
+28. MS Powerpoint 2013:  Thao tác chọn File -> Close dùngđể 
+A. lưu tập tin hiện tại 
+B. mở một tập tin nàođó  
+C. đóng tập tin hiện tại 
+D. Thoát khỏi Powerpoint  
+Answer: C  
+ 
+29. MS Powerpoint 2013:  Sau khiđã chọn mộtđoạn văn bản, cách nào sauđây không 
+phảiđể làm mấtđiđoạn văn bảnđó?  
+A. Chọn Edit -> Cut.  
+B. Nhấn tổ hợp phím Alt + X  
+C. Nhắp chuột trái vào nút lệnh Cut (biểu tượng là cái kéo) trên thanh công cụ. 
+D. Nhấn phím Delete.  
+Answer: B  
+ 
+30. MS Powerpoint 2013:  Đang trình chiếu một bài trình diễn, muốn dừng trình diễn ta 
+nhấn phím  
+A. Tab  
+B. Esc  
+C. Home  
+D. End  
+Answer: B  
+ 
+1. Lan/Internet: Dạng mạng nào dướiđây là kết nối point to point?  
+A. Star  
+B. Ring  
+C. Bus  
+D. Router  
+Answer: A  
+ 
+3. Lan/Internet: Dạng mạng nào dướiđây các trạm phân chia chung mộtđường truyền 
+chung?  
+A. Star  
+B. Ring  
+C. Bus  
+D. Router  
+Answer: C  
+ 
+4. Lan/Internet: Dạng mạng nào dướiđây tín hiệuđược truyềnđi trên vòng theo một 
+chiều duy nhất? 
+A. Star  
+B. Ring  
+C. Bus  
+D. Router  
+Answer: B  
+ 
+5. Lan/Internet: Dạng cáp nào dướiđây có tốcđộ truyền tín hiệu cao nhất? 
+A. Cápđồng trục 
+B. Cáp xoắnđôi  
+C. Cáp quang  
+D. Cáp Router  
+Answer: C  
+ 
+8. Lan/Internet: Khi sử dụng mạng máy tính ta sẽđược các lợiích gì?  
+A. Chia sẻ tài nguyên ( ổ cứng, cơ sở dữ liệu, máy in… )  
+B. Quản lý không tập trung  
+C. Xử lý thông tin không chính xác  
+D. Quản lý hóa dữ liệu 
+Answer: A 
+ 
+9. Lan/Internet: Mạng nối nhiều máy tính với nhau trong phạm vi một tòa nhà gọi là? 
+A. LAN  
+B. WAN  
+C. MAN  
+D. INTERNET  
+Answer: A  
+ 
+10. Lan/Internet: Mạng diện rộng, dùngđể kết nối máy tính trong nội bộ các quốc gia hay 
+giữa các quốc gia trong cùng một châu lục gọi là? 
+A. LAN  
+B. WAN  
+C. MAN  
+D. INTERNET  
+Answer: B  
+ 
+11. Lan/Internet: Đặcđiểm mạng LAN?  
+A. Mạng nối các máy tính trong phạm vi 1 tòa nhà  
+B. Tốcđộ liệu cao  
+C. Tỷ lệ dữ liệu 
+D. Máy tính trong phạm vi cho phép  
+Answer: A 
+ 
+12. Lan/Internet: Hệđiều hành nào dướiđây dành cho máy chủ? 
+A. Windows XP  
+B. Windows 7  
+C. Windows Server 2008  
+D. Windows 8  
+Answer: C  
+ 
+16. Lan/Internet: Đặcđiểm của mạng hình sao?  
+A. Tất cả các trạm chưađược kết nối thiết bị trung tâm  
+B. Dễ dàng bổ sung hay loại bỏ bớt máy tính  
+C. Dễ dàng giải quyếtđường truyền 
+D. Tất cả các trạm chưađược kết  
+Answer: B 
+ 
+25. Lan/Internet: Đặcđiểm của mạng dạngđường thẳng 
+A. Tất cả các nút mạng kết nối vào nút mạng trung tâm  
+B. Tất cả kết nối trên cùng mộtđường truyền vật lý 
+C. Tất cả các nút mạngđều kết nối trực tiếp với nhau  
+D. Mỗi nút mạng kết nối với 2 nút mạng còn lại 
+Answer: C  
+ 
+28. Lan/Internet: Dịch vụ DHCP dùngđể? 
+A. Cấpđịa chỉ IP cho máy trạm 
+B. Phân giải tên miền vàđịa chỉ IP 
+C. Truyền file qua mạng 
+D. Gửi thưđiện tử 
+Answer: A  
+ 
+29. Lan/Internet: Dịch vụ DNS dùngđể? 
+A. Cấpđịa chỉ IP cho máy trạm 
+B. Phân giải tên miền vàđịa chỉ IP 
+C. Truyền file qua mạng 
+D. Gửi thưđiện tử 
+Answer: B  
+ 
+30. Lan/Internet: Khi soạn thảo Email muốnđính kèm tập tin chúng ta chọn? 
+A. Send  
+B. Copy  
+C. Attachment  
+D. File/save  
+Answer: C  
+ 
+37. Lan/Internet: Phần mềm nào dướiđây khô ng phải là trình duyệt? 
+A. Cốc Cốc 
+B. Firefox  
+C. Safari  
+D. VLC Player  
+Answer: D  
+ 
+38. Lan/Internet: Nút BACK trên trình duyệt dùngđể? 
+A. Trở lại trang trước 
+B. Điđến trang kế tiếp 
+C. Truy cập lịch sử duyệt web  
+D. Về trang chủ 
+Answer: A  
+ 
+46. Lan/Internet: Đểđiều khiển máy tính từ xa trong mạng LAN, ta thường sử dụng phần 
+mềm nào?  
+A. Remote Desktop Connection  
+B. Team Viewer  
+C. Chrome  
+D. VLC Player  
+Answer: A  
+ 
+60. Lan/Internet: WWW viết tắt của? 
+A. Word Wide Web  
+B. World Wide Wed  
+C. Wed wide world  
+D. Win Word Wed  
+Answer: B  
+ 
+61. Lan/Internet: Những phần mềm nào dùngđể duyệt web?  
+A. Chrome  
+B. Hệđiều hành  
+C. Ứng dụng văn phòng  
+D. Hệ thống mạng 
+Answer: A 
+ 
+62. Lan/Internet: HTTP là gì?  
+A. Giao thức truyền siêu văn bản 
+B. Ngôn ngữ soạn thảo web  
+C. Tên của trang web  
+D. Địa chỉ của trang web  
+Answer: A  
+ 
+68. Lan/Internet: Đèn Link của Router ADSL không sáng. Lỗi này có thể là lỗi nào sau 
+đây 
+A. Hỏng dâyđiện thoại 
+B. Hỏng dây Cable  
+C. Hỏngđầu RJ45  
+D. Hỏng Switch  
+Answer: A  
+ 
+69. Lan/Internet: Đèn Data của Router ADSL không sáng. Lỗi này có thể là lỗi nào sau 
+đây 
+A. Kết nối về ISP bị lỗi 
+B. Hỏng dâyđiện thoại 
+C. Hỏngđầu RJ45  
+D. Hỏng dây Cable  
+Answer: A  
+ 
+70. Lan/Internet: Icon Lan (nằm dưới system bar) bị dấu chéođỏ. Lỗi này có thể là lỗi 
+nào sauđây  
+A. Hỏng cable  
+B. Hỏng dâyđiện thoại 
+C. Kết nối về ISP bị lỗi 
+D. Hỏng Switch  
+Answer: A  
+ 
+71. Lan/Internet: Icon Lan (nằm dưới system bar) bị dấu chấm thang vàng. Lỗi này có thể 
+là lỗi nào sauđây  
+A. Lỗi thiết lậpđịa chỉ IP 
+B. Hỏng cable  
+C. Hỏng dâyđiện thoại 
+D. Kết nối về ISP bị lỗi 
+Answer: A  
+ 
+98. Lan/Internet: Laptop có thể vừa sử dụng card mạng có dây và không dâyđược hay 
+không  
+A. Được 
+B. Không  
+C. Được, nhưng phải của hãng LinkSys  
+D. Được, nhưng thiết bị phải do ISP cấp 
+Answer: A  
+ 
